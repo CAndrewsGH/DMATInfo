@@ -271,204 +271,6 @@ var ptx_lunr_docs = [
   "body": "Solve. If necessary, round percents to the nearest whole.  In a recent survey of 98 people, 49 said that their favorite color of car was black. What percent of the people surveyed liked black cars?   "
 },
 {
-  "id": "section-26",
-  "level": "1",
-  "url": "section-26.html",
-  "type": "Section",
-  "number": "",
-  "title": "Implicit Differentiation",
-  "body": " Implicit Differentiation    Identify situations for which implicit differentiation is preferable to explicit differentiation  Use implicit differentiation to compute and use first and second derivatives     Before Class   Pre-Class Video 1     The Idea  Consider the equation .   is called an implicit equation . Why is this considered implicit and not explicit ?  Write in an explicit form.       can't be written in terms of a single equation, i.e. it's not a function of         Consider the circle of radius 4, centered at the origin, given by the implicit equation .  Rewrite the equation using that (that is, is a function of )  Why would we need to use the chain rule in order to take this derivative?  Take the derivative of both sides, using for the derivative of   Find .         There's function composition           Use implicit differentiation to find for the implicit equation          Pre-Class Activities  How can you tell if you are looking at an implicit equation or an explicit equation?  Answers vary     Find for the expression , and find the slope of the tangent line at the point   Use your answer in (a) to write an equation for the tangent line to the curve at the point .       , so           In Class    Find the derivative of at the point   Find the equation of the tangent line to the curve at this point.       , so         Find all points where the tangent line to the curve is horizontal.      Find , if       Find , if       Find if       Find the equation of the tangent line to the curve at the point .      Find for the equation      Find , if       Find if         After Class Activities  Find for the equation       Find for the equation       If and , find .      If , find the value of at input .      Show that the tangent line to the ellipse at the point can be written as    First note that by clearing fractions we get . Taking the implicit derivative, we see that so that   Now, the equation of the tangent line can be written as . Simplifying by clearing fractions gives . Rewriting as and dividing by gives   Using the relationship , we conclude that      "
-},
-{
-  "id": "section-26-2",
-  "level": "2",
-  "url": "section-26.html#section-26-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "  Identify situations for which implicit differentiation is preferable to explicit differentiation  Use implicit differentiation to compute and use first and second derivatives   "
-},
-{
-  "id": "section-26-beforeclass-2",
-  "level": "2",
-  "url": "section-26.html#section-26-beforeclass-2",
-  "type": "Figure",
-  "number": "21",
-  "title": "",
-  "body": " Pre-Class Video 1   "
-},
-{
-  "id": "section-26-idea-2",
-  "level": "2",
-  "url": "section-26.html#section-26-idea-2",
-  "type": "Example",
-  "number": "22",
-  "title": "",
-  "body": "Consider the equation .   is called an implicit equation . Why is this considered implicit and not explicit ?  Write in an explicit form.       can't be written in terms of a single equation, i.e. it's not a function of        "
-},
-{
-  "id": "section-26-idea-3",
-  "level": "2",
-  "url": "section-26.html#section-26-idea-3",
-  "type": "Example",
-  "number": "23",
-  "title": "",
-  "body": "Consider the circle of radius 4, centered at the origin, given by the implicit equation .  Rewrite the equation using that (that is, is a function of )  Why would we need to use the chain rule in order to take this derivative?  Take the derivative of both sides, using for the derivative of   Find .         There's function composition          "
-},
-{
-  "id": "section-26-idea-4",
-  "level": "2",
-  "url": "section-26.html#section-26-idea-4",
-  "type": "Example",
-  "number": "24",
-  "title": "",
-  "body": "Use implicit differentiation to find for the implicit equation      "
-},
-{
-  "id": "section-26-preclass-2",
-  "level": "2",
-  "url": "section-26.html#section-26-preclass-2",
-  "type": "Example",
-  "number": "25",
-  "title": "",
-  "body": "How can you tell if you are looking at an implicit equation or an explicit equation?  Answers vary  "
-},
-{
-  "id": "section-26-preclass-3",
-  "level": "2",
-  "url": "section-26.html#section-26-preclass-3",
-  "type": "Example",
-  "number": "26",
-  "title": "",
-  "body": "  Find for the expression , and find the slope of the tangent line at the point   Use your answer in (a) to write an equation for the tangent line to the curve at the point .       , so        "
-},
-{
-  "id": "section-26-inclass-2",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-2",
-  "type": "Example",
-  "number": "27",
-  "title": "",
-  "body": "  Find the derivative of at the point   Find the equation of the tangent line to the curve at this point.       , so        "
-},
-{
-  "id": "section-26-inclass-3",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-3",
-  "type": "Example",
-  "number": "28",
-  "title": "",
-  "body": "Find all points where the tangent line to the curve is horizontal.     "
-},
-{
-  "id": "section-26-inclass-4",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-4",
-  "type": "Example",
-  "number": "29",
-  "title": "",
-  "body": "Find , if      "
-},
-{
-  "id": "section-26-inclass-5",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-5",
-  "type": "Example",
-  "number": "30",
-  "title": "",
-  "body": "Find , if      "
-},
-{
-  "id": "section-26-inclass-6",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-6",
-  "type": "Example",
-  "number": "31",
-  "title": "",
-  "body": "Find if      "
-},
-{
-  "id": "section-26-inclass-7",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-7",
-  "type": "Example",
-  "number": "32",
-  "title": "",
-  "body": "Find the equation of the tangent line to the curve at the point .     "
-},
-{
-  "id": "section-26-inclass-8",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-8",
-  "type": "Example",
-  "number": "33",
-  "title": "",
-  "body": "Find for the equation     "
-},
-{
-  "id": "section-26-inclass-9",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-9",
-  "type": "Example",
-  "number": "34",
-  "title": "",
-  "body": "Find , if      "
-},
-{
-  "id": "section-26-inclass-10",
-  "level": "2",
-  "url": "section-26.html#section-26-inclass-10",
-  "type": "Example",
-  "number": "35",
-  "title": "",
-  "body": "Find if      "
-},
-{
-  "id": "section-26-afterclass-2",
-  "level": "2",
-  "url": "section-26.html#section-26-afterclass-2",
-  "type": "Example",
-  "number": "36",
-  "title": "",
-  "body": "Find for the equation      "
-},
-{
-  "id": "section-26-afterclass-3",
-  "level": "2",
-  "url": "section-26.html#section-26-afterclass-3",
-  "type": "Example",
-  "number": "37",
-  "title": "",
-  "body": "Find for the equation      "
-},
-{
-  "id": "section-26-afterclass-4",
-  "level": "2",
-  "url": "section-26.html#section-26-afterclass-4",
-  "type": "Example",
-  "number": "38",
-  "title": "",
-  "body": "If and , find .     "
-},
-{
-  "id": "section-26-afterclass-5",
-  "level": "2",
-  "url": "section-26.html#section-26-afterclass-5",
-  "type": "Example",
-  "number": "39",
-  "title": "",
-  "body": "If , find the value of at input .     "
-},
-{
-  "id": "section-26-afterclass-6",
-  "level": "2",
-  "url": "section-26.html#section-26-afterclass-6",
-  "type": "Example",
-  "number": "40",
-  "title": "",
-  "body": "Show that the tangent line to the ellipse at the point can be written as    First note that by clearing fractions we get . Taking the implicit derivative, we see that so that   Now, the equation of the tangent line can be written as . Simplifying by clearing fractions gives . Rewriting as and dividing by gives   Using the relationship , we conclude that    "
-},
-{
   "id": "section_1-1",
   "level": "1",
   "url": "section_1-1.html",
@@ -491,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-1.html#section_1-1-3",
   "type": "Example",
-  "number": "41",
+  "number": "21",
   "title": "",
   "body": "Use a real number to represent the situation.  The thermometer read below zero.  The little girl was pleased at finding 32 cents.  The team gave up 20 points.   "
 },
@@ -500,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-1.html#section_1-1-4",
   "type": "Example",
-  "number": "42",
+  "number": "22",
   "title": "",
   "body": "Find the additive inverse (opposite).      "
 },
@@ -509,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-1.html#section_1-1-5",
   "type": "Example",
-  "number": "43",
+  "number": "23",
   "title": "",
   "body": "Find the absolute value.          "
 },
@@ -518,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-1.html#section_1-1-6",
   "type": "Example",
-  "number": "44",
+  "number": "24",
   "title": "",
   "body": "Add.             "
 },
@@ -527,7 +329,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-1.html#section_1-1-7",
   "type": "Example",
-  "number": "45",
+  "number": "25",
   "title": "",
   "body": "Solve the problem.  A deep-sea diver dives from the surface to 52 feet below the surface. She then dives down 9 more feet. Find the diver's depth.  At the start of a chemistry experiment, Sarah measured the temperature of a liquid to be C. At the end of the experiment, it had risen C. What was the liquid's temperature at the end of the experiment?  In a card game, it is possible to have a negative score. If Ellie's score is 21, what is her new score if she loses 33 points?  Jared borrowed $210 from his friend Linda. He paid her back $39, but then had to borrow another $99. How much does he still owe her?  Sara has $210 in her checking account. She writes a check for $47, makes a deposit for $119, and then writes another check for $150. Find the amount left in her account. (Write the amount as an integer.)   "
 },
@@ -554,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-2.html#section_1-2-3",
   "type": "Example",
-  "number": "46",
+  "number": "26",
   "title": "",
   "body": "Subtract.          "
 },
@@ -563,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-2.html#section_1-2-4",
   "type": "Example",
-  "number": "47",
+  "number": "27",
   "title": "",
   "body": "Solve the problem.  Sean has $386 in his savings account. After he withdraws $50, what will his balance be?   "
 },
@@ -572,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-2.html#section_1-2-5",
   "type": "Example",
-  "number": "48",
+  "number": "28",
   "title": "",
   "body": "Subtract.  Subtract -3 from 7.  Subtract 28 from -13.   "
 },
@@ -581,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-2.html#section_1-2-6",
   "type": "Example",
-  "number": "49",
+  "number": "29",
   "title": "",
   "body": "Combine the numbers.      "
 },
@@ -608,7 +410,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-3.html#section_1-3-3",
   "type": "Example",
-  "number": "50",
+  "number": "30",
   "title": "",
   "body": "Multiply.    "
 },
@@ -617,7 +419,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-3.html#section_1-3-4",
   "type": "Example",
-  "number": "51",
+  "number": "31",
   "title": "",
   "body": "Divide and write the answer in simplest form.    "
 },
@@ -626,7 +428,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-3.html#section_1-3-5",
   "type": "Example",
-  "number": "52",
+  "number": "32",
   "title": "",
   "body": "Solve the problem.  A weather forecaster predicts that the temperature will drop 6 degrees each hour for the next 3 hours. If the temperature is 8 degrees before the temperature starts falling, what is the temperature after the drop?  Janet arranged for a car loan of $28,000. If her monthly payments are $560, how many months will it take her to pay off the loan?   "
 },
@@ -635,7 +437,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-3.html#section_1-3-6",
   "type": "Example",
-  "number": "53",
+  "number": "33",
   "title": "",
   "body": "Divide and write the answer in simplest form.     "
 },
@@ -644,7 +446,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-3.html#section_1-3-7",
   "type": "Example",
-  "number": "54",
+  "number": "34",
   "title": "",
   "body": "Multiply.        "
 },
@@ -671,7 +473,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-4.html#section_1-4-3",
   "type": "Example",
-  "number": "55",
+  "number": "35",
   "title": "",
   "body": "Write the expression in exponent form.        "
 },
@@ -680,7 +482,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-4.html#section_1-4-4",
   "type": "Example",
-  "number": "56",
+  "number": "36",
   "title": "",
   "body": "Evaluate.          "
 },
@@ -707,7 +509,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-5.html#section_1-5-3",
   "type": "Example",
-  "number": "57",
+  "number": "37",
   "title": "",
   "body": "Evaluate.       "
 },
@@ -716,7 +518,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-5.html#section_1-5-4",
   "type": "Example",
-  "number": "58",
+  "number": "38",
   "title": "",
   "body": "Solve the problem.  Scores in golf can be positive or negative integers. For example, a score of 5 over par can be represented by +5 and a score of 4 under par can be represented by -4. If Donna had scores of 4 over par, 5 under par, and 6 under par for three games of golf, what was her total score?   "
 },
@@ -743,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-6.html#section_1-6-3",
   "type": "Example",
-  "number": "59",
+  "number": "39",
   "title": "",
   "body": "Use the distributive property to simplify.        "
 },
@@ -752,7 +554,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-6.html#section_1-6-4",
   "type": "Example",
-  "number": "60",
+  "number": "40",
   "title": "",
   "body": "Solve the problem.  A living room is 15 feet wide. The carpeted portion of the room is 3x feet long and the adjacent tiled portion of the room is 4y feet long. Use the distributive property to find an expression for the total area of the living room.   "
 },
@@ -779,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-7.html#section_1-7-3",
   "type": "Example",
-  "number": "61",
+  "number": "41",
   "title": "",
   "body": "Combine like terms.       "
 },
@@ -788,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-7.html#section_1-7-4",
   "type": "Example",
-  "number": "62",
+  "number": "42",
   "title": "",
   "body": "Simplify the expression, and combine like terms.      "
 },
@@ -797,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-7.html#section_1-7-5",
   "type": "Example",
-  "number": "63",
+  "number": "43",
   "title": "",
   "body": "Solve the problem by combining like terms.  A triangle has sides of length 14a + 12 inches, 10a + 4b inches, and 3b + 19 inches. What is the perimeter of the triangle?  The value of 8 dimes is 10 ∙ 8 = 80 cents. Likewise, the value of x dimes is 10x cents. If George finds 6x - 2 nickels, 5x dimes, and x quarters in his change jar, express the total value of change in cents as an algebraic expression.  Given the following quadrilateral, express the perimeter, or total distance around the figure, as an algebraic expression containing the variable x. (2x +2) inches (x-1) inches 3 inches 3x inches   "
 },
@@ -824,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-8.html#section_1-8-3",
   "type": "Example",
-  "number": "64",
+  "number": "44",
   "title": "",
   "body": "Evaluate.          "
 },
@@ -833,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-8.html#section_1-8-4",
   "type": "Example",
-  "number": "65",
+  "number": "45",
   "title": "",
   "body": "Solve the problem.  A square component in a television set measures 22 centimeters per side. Next year's design will contain the same square component, but its side will measure only 16 centimeters. By how much will the area of the square be decreased?  In a home economics class, students cut triangular pieces of fabric for a quilt. Each triangle had a base of 18 centimeters and an altitude of 17 centimeters. What was the area of each triangular piece of fabric?  A circular pizza in a contest for the world's largest pizza has a radius of 12 feet. What is the area of the pizza? (Use and round to 2 decimal places, if necessary.)  The expression can be used to convert Fahrenheit to Celsius degrees. On January 29, the high temperature was F. Find the corresponding Celsius temperature (to the nearest degree).  Find the total cost of tiling a rectangular floor that is 10 meters long and 6 meters wide if it costs $6.34 to tile one square meter. Round to the nearest cent.   "
 },
@@ -860,7 +662,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_1-9.html#section_1-9-3",
   "type": "Example",
-  "number": "66",
+  "number": "46",
   "title": "",
   "body": "Simplify by removing grouping symbols and combining like terms.        "
 },
@@ -896,7 +698,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-3",
   "type": "Example",
-  "number": "67",
+  "number": "47",
   "title": "",
   "body": "Determine whether the given ordered pair is a solution to the system of equations.     "
 },
@@ -905,7 +707,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-4",
   "type": "Example",
-  "number": "68",
+  "number": "48",
   "title": "",
   "body": "Use the substitution method to solve the system.      "
 },
@@ -914,7 +716,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-5",
   "type": "Example",
-  "number": "69",
+  "number": "49",
   "title": "",
   "body": "If possible, solve the system of equations. Use any method. If there is not a unique solution to a system, say why.       "
 },
@@ -923,7 +725,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-6",
   "type": "Example",
-  "number": "70",
+  "number": "50",
   "title": "",
   "body": "Solve.  A couple have bought a new house and are comparing quotes from two moving companies for moving their furniture. Company A charges $90 for the truck and $60 per hour for the movers. Company B charges $70 for the truck and $75 per hour for the movers. Create a cost equation for each company where y is the total cost and x is the number of hours of labor. Write a system of equations.  Megan is having her yard landscaped. She obtained an estimate from two landscaping companies. Company A gave an estimate of $180 for materials and equipment rental plus $45 per hour for labor. Company B gave and estimate of $250 for materials and equipment rental plus $35 per hour for labor. Create a cost equation for each company where y is the total cost of the landscaping and x is the number of hours of labor. Determine how many hours of labor will be required for the two companies to cost the same.   "
 },
@@ -932,7 +734,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-7",
   "type": "Example",
-  "number": "71",
+  "number": "51",
   "title": "",
   "body": "Find the solution to the system by addition (elimination) method.      "
 },
@@ -941,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-8",
   "type": "Example",
-  "number": "72",
+  "number": "52",
   "title": "",
   "body": "Solve the system by graphing.      "
 },
@@ -968,7 +770,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-3.html#section_4-3-3",
   "type": "Example",
-  "number": "73",
+  "number": "53",
   "title": "",
   "body": "Solve the problem.  The Family Fine Arts Center charges $21 per adult and $10 per senior citizen for its performances. On a recent weekend evening when 575 people paid admission, the total receipts were $7,752. How many who paid were senior citizens?  A tour group split into two groups when waiting in line for food at a fast food counter. The first group bought 6 slices of pizza and 5 soft drinks for $29.04. The second group bought 5 slices of pizza and 5 soft drinks for $25.60. How much does one slice of pizza cost?  A twin-engined aircraft can fly 1,280 miles from city A to city B in 4 hours with the wind and make the return trip in 8 hours against the wind. What is the speed of the wind?  Tina Thompson scored 31 points in a recent basketball game without making any 3-point shots. She scored 21 times, making several free throws worth 1 point each and several field goals worth two points each. How many free throws did she make? How many 2-point field goals did she make? Julio has found that his new car gets 36 miles per gallon on the highway and 30 miles per gallon in the city. He recently drove 312 miles on 9 gallons of gasoline. How many miles did he drive on the highway? How many miles did he drive in the city?   "
 },
@@ -995,7 +797,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-1.html#section_6-1-3",
   "type": "Example",
-  "number": "74",
+  "number": "54",
   "title": "",
   "body": "Factor out the largest possible common factor.           "
 },
@@ -1022,7 +824,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-2.html#section_6-2-3",
   "type": "Example",
-  "number": "75",
+  "number": "55",
   "title": "",
   "body": "Factor by grouping.        "
 },
@@ -1049,7 +851,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-3",
   "type": "Example",
-  "number": "76",
+  "number": "56",
   "title": "",
   "body": "Factor.          "
 },
@@ -1058,7 +860,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-4",
   "type": "Example",
-  "number": "77",
+  "number": "57",
   "title": "",
   "body": "Find a polynomial in factored form for the shaded region.  graphic(Miscellaneous:pic1.bmp - )  "
 },
@@ -1085,7 +887,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-3",
   "type": "Example",
-  "number": "78",
+  "number": "58",
   "title": "",
   "body": "Factor by grouping, using the AC-method.      "
 },
@@ -1094,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-4",
   "type": "Example",
-  "number": "79",
+  "number": "59",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.         "
 },
@@ -1121,7 +923,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-3",
   "type": "Example",
-  "number": "80",
+  "number": "60",
   "title": "",
   "body": "Factor.           "
 },
@@ -1130,7 +932,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-4",
   "type": "Example",
-  "number": "81",
+  "number": "61",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.      "
 },
@@ -1157,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-6.html#section_6-6-3",
   "type": "Example",
-  "number": "82",
+  "number": "62",
   "title": "",
   "body": "Factor as completely as possible. If unfactorable, indicate that the polynomial is prime.        "
 },
@@ -1184,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-3",
   "type": "Example",
-  "number": "83",
+  "number": "63",
   "title": "",
   "body": "Solve the equation.           "
 },
@@ -1193,7 +995,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-4",
   "type": "Example",
-  "number": "84",
+  "number": "64",
   "title": "",
   "body": "Solve the problem.  The perimeter of the quadrilateral is 108 inches. Find the lengths of the sides. graphic(Miscellaneous:572_2.bmp - )  The width of a rectangle is 6 kilometers less than twice its length. If its area is 176 square kilometers, find the dimensions of the rectangle.  An object is thrown upward from the top of a 160-foot building with an initial velocity of 48 feet per second. The height h of the object after t seconds is given by the quadratic equation . When will the object hit the ground?  If the cost, C, for manufacturing x units of a certain product is given by , find the number of units manufactured at a cost of $8,600.  The sum of a number and its square is 12. Find the number.   "
 }
