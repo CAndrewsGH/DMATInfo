@@ -1,15 +1,6 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "frontmatter",
-  "level": "1",
-  "url": "frontmatter.html",
-  "type": "Front Matter",
-  "number": "",
-  "title": "Front Matter",
-  "body": "   Candace Andrews  Sooner Rose Developmental Mathematics  University of Oklahoma        "
-},
-{
   "id": "section_0-1",
   "level": "1",
   "url": "section_0-1.html",
