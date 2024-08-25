@@ -673,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section T.5+: Recalling Linear Equations",
-  "body": " Section T.5+: Recalling Linear Equations    Determine if lines are parallel, perpendicular, or neither parallel nor perpendicular.  Evaluate variable expressions.  Write the equation of a line given the slope and y-intercept.    Evaluate.  for  for  for  for    Write the equation of the line in slope-intercept form.  , y-intercept (0, 6)  , y-intercept (0, -5)  , y-intercept (0, -8)    Solve the problem.  A line has a slope of -12. What is the slope of a line parallel to it?  A line has a slope of . What is the slope of a line perpendicular to it?  The equation of a line is . What is the slope of a line parallel to it?  The equation of a line is . What is the slope of a line perpendicular to it?    Determine whether the following lines are parallel, perpendicular, or neither.       "
+  "body": " Section T.5+: Recalling Linear Equations    Determine if lines are parallel, perpendicular, or neither parallel nor perpendicular.  Evaluate variable expressions.  Write the equation of a line given the slope and y-intercept.    Evaluate.  for  for  for  for    Write the equation of the line in slope-intercept form.  , y-intercept (0, 6)  , y-intercept (0, -5)  , y-intercept (0, -8)  , point (1,3)  , point (4,5)      Solve the problem.  A line has a slope of -12. What is the slope of a line parallel to it?  A line has a slope of . What is the slope of a line perpendicular to it?  The equation of a line is . What is the slope of a line parallel to it?  The equation of a line is . What is the slope of a line perpendicular to it?    Determine whether the following lines are parallel, perpendicular, or neither.       "
 },
 {
   "id": "section_T-5-2",
@@ -700,7 +700,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "48",
   "title": "",
-  "body": "Write the equation of the line in slope-intercept form.  , y-intercept (0, 6)  , y-intercept (0, -5)  , y-intercept (0, -8)   "
+  "body": "Write the equation of the line in slope-intercept form.  , y-intercept (0, 6)  , y-intercept (0, -5)  , y-intercept (0, -8)  , point (1,3)  , point (4,5)     "
 },
 {
   "id": "section_T-5-5",
