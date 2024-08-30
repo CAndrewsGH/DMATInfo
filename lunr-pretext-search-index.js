@@ -820,6 +820,60 @@ var ptx_lunr_docs = [
   "body": "Solve the problem.  The Family Fine Arts Center charges $21 per adult and $10 per senior citizen for its performances. On a recent weekend evening when 575 people paid admission, the total receipts were $7,752. How many who paid were senior citizens?  A tour group split into two groups when waiting in line for food at a fast food counter. The first group bought 6 slices of pizza and 5 soft drinks for $29.04. The second group bought 5 slices of pizza and 5 soft drinks for $25.60. How much does one slice of pizza cost?  A twin-engined aircraft can fly 1,280 miles from city A to city B in 4 hours with the wind and make the return trip in 8 hours against the wind. What is the speed of the wind?  Tina Thompson scored 31 points in a recent basketball game without making any 3-point shots. She scored 21 times, making several free throws worth 1 point each and several field goals worth two points each. How many free throws did she make? How many 2-point field goals did she make? Julio has found that his new car gets 36 miles per gallon on the highway and 30 miles per gallon in the city. He recently drove 312 miles on 9 gallons of gasoline. How many miles did he drive on the highway? How many miles did he drive in the city?   "
 },
 {
+  "id": "section_T-2",
+  "level": "1",
+  "url": "section_T-2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section T.2: Polynomial Operations",
+  "body": " Section T.2: Polynomial Operations    Add and subtract polynomials.  Multiply two binomials by FOIL.  Multiply polynomials with more than two terms.    Add or subtract the polynomials.         Multiply a polynomial by a monomial.       Multiply two binomials by \"FOIL.\"         Multiply polynomials with more than two terms.      "
+},
+{
+  "id": "section_T-2-2",
+  "level": "2",
+  "url": "section_T-2.html#section_T-2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Add and subtract polynomials.  Multiply two binomials by FOIL.  Multiply polynomials with more than two terms.   "
+},
+{
+  "id": "section_T-2-3",
+  "level": "2",
+  "url": "section_T-2.html#section_T-2-3",
+  "type": "Example",
+  "number": "58",
+  "title": "",
+  "body": "Add or subtract the polynomials.        "
+},
+{
+  "id": "section_T-2-4",
+  "level": "2",
+  "url": "section_T-2.html#section_T-2-4",
+  "type": "Example",
+  "number": "59",
+  "title": "",
+  "body": "Multiply a polynomial by a monomial.      "
+},
+{
+  "id": "section_T-2-5",
+  "level": "2",
+  "url": "section_T-2.html#section_T-2-5",
+  "type": "Example",
+  "number": "60",
+  "title": "",
+  "body": "Multiply two binomials by \"FOIL.\"        "
+},
+{
+  "id": "section_T-2-6",
+  "level": "2",
+  "url": "section_T-2.html#section_T-2-6",
+  "type": "Example",
+  "number": "61",
+  "title": "",
+  "body": "Multiply polynomials with more than two terms.     "
+},
+{
   "id": "section_6-1",
   "level": "1",
   "url": "section_6-1.html",
@@ -842,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-1.html#section_6-1-3",
   "type": "Example",
-  "number": "58",
+  "number": "62",
   "title": "",
   "body": "Factor out the largest possible common factor.           "
 },
@@ -869,7 +923,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-2.html#section_6-2-3",
   "type": "Example",
-  "number": "59",
+  "number": "63",
   "title": "",
   "body": "Factor by grouping.        "
 },
@@ -896,7 +950,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-3",
   "type": "Example",
-  "number": "60",
+  "number": "64",
   "title": "",
   "body": "Factor.          "
 },
@@ -905,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-4",
   "type": "Example",
-  "number": "61",
+  "number": "65",
   "title": "",
   "body": "Find a polynomial in factored form for the shaded region.  graphic(Miscellaneous:pic1.bmp - )  "
 },
@@ -932,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-3",
   "type": "Example",
-  "number": "62",
+  "number": "66",
   "title": "",
   "body": "Factor by grouping, using the AC-method.      "
 },
@@ -941,7 +995,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-4",
   "type": "Example",
-  "number": "63",
+  "number": "67",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.         "
 },
@@ -968,7 +1022,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-3",
   "type": "Example",
-  "number": "64",
+  "number": "68",
   "title": "",
   "body": "Factor.           "
 },
@@ -977,7 +1031,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-4",
   "type": "Example",
-  "number": "65",
+  "number": "69",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.      "
 },
@@ -1004,7 +1058,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-6.html#section_6-6-3",
   "type": "Example",
-  "number": "66",
+  "number": "70",
   "title": "",
   "body": "Factor as completely as possible. If unfactorable, indicate that the polynomial is prime.        "
 },
@@ -1031,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-3",
   "type": "Example",
-  "number": "67",
+  "number": "71",
   "title": "",
   "body": "Solve the equation.           "
 },
@@ -1040,7 +1094,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-4",
   "type": "Example",
-  "number": "68",
+  "number": "72",
   "title": "",
   "body": "Solve the problem.  The perimeter of the quadrilateral is 108 inches. Find the lengths of the sides. graphic(Miscellaneous:572_2.bmp - )  The width of a rectangle is 6 kilometers less than twice its length. If its area is 176 square kilometers, find the dimensions of the rectangle.  An object is thrown upward from the top of a 160-foot building with an initial velocity of 48 feet per second. The height h of the object after t seconds is given by the quadratic equation . When will the object hit the ground?  If the cost, C, for manufacturing x units of a certain product is given by , find the number of units manufactured at a cost of $8,600.  The sum of a number and its square is 12. Find the number.   "
 }
