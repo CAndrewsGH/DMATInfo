@@ -1421,6 +1421,330 @@ var ptx_lunr_docs = [
   "number": "92",
   "title": "",
   "body": "Solve the problem.  The perimeter of the quadrilateral is 108 inches. Find the lengths of the sides. graphic(Miscellaneous:572_2.bmp - )  The width of a rectangle is 6 kilometers less than twice its length. If its area is 176 square kilometers, find the dimensions of the rectangle.  An object is thrown upward from the top of a 160-foot building with an initial velocity of 48 feet per second. The height h of the object after t seconds is given by the quadratic equation . When will the object hit the ground?  If the cost, C, for manufacturing x units of a certain product is given by , find the number of units manufactured at a cost of $8,600.  The sum of a number and its square is 12. Find the number.   "
+},
+{
+  "id": "section_7-1",
+  "level": "1",
+  "url": "section_7-1.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.1: Simplifying Rational Expressions",
+  "body": " Section 7.1: Simplifying Rational Expressions    Simplify rational expressions by factoring.                                "
+},
+{
+  "id": "section_7-1-2",
+  "level": "2",
+  "url": "section_7-1.html#section_7-1-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Simplify rational expressions by factoring.   "
+},
+{
+  "id": "section_7-1-3",
+  "level": "2",
+  "url": "section_7-1.html#section_7-1-3",
+  "type": "Example",
+  "number": "93",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-1-4",
+  "level": "2",
+  "url": "section_7-1.html#section_7-1-4",
+  "type": "Example",
+  "number": "94",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-1-5",
+  "level": "2",
+  "url": "section_7-1.html#section_7-1-5",
+  "type": "Example",
+  "number": "95",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-1-6",
+  "level": "2",
+  "url": "section_7-1.html#section_7-1-6",
+  "type": "Example",
+  "number": "96",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-2",
+  "level": "1",
+  "url": "section_7-2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.2: Multiplying and Dividing Rational Expressions",
+  "body": " Section 7.2: Multiplying and Dividing Rational Expressions    Multiply rational expressions.  Divide rational expressions.                                "
+},
+{
+  "id": "section_7-2-2",
+  "level": "2",
+  "url": "section_7-2.html#section_7-2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Multiply rational expressions.  Divide rational expressions.   "
+},
+{
+  "id": "section_7-2-3",
+  "level": "2",
+  "url": "section_7-2.html#section_7-2-3",
+  "type": "Example",
+  "number": "97",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-2-4",
+  "level": "2",
+  "url": "section_7-2.html#section_7-2-4",
+  "type": "Example",
+  "number": "98",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-2-5",
+  "level": "2",
+  "url": "section_7-2.html#section_7-2-5",
+  "type": "Example",
+  "number": "99",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-2-6",
+  "level": "2",
+  "url": "section_7-2.html#section_7-2-6",
+  "type": "Example",
+  "number": "100",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-3",
+  "level": "1",
+  "url": "section_7-3.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.3: Adding and Subtracting Rational Expressions",
+  "body": " Section 7.3: Adding and Subtracting Rational Expressions    Add and subtract rational expressions with a common denominator.  Determine the LCD for rational expressions with different denominators.  Add rational expressions with different denominators.  Subtract rational expressions with different denominators.                                "
+},
+{
+  "id": "section_7-3-2",
+  "level": "2",
+  "url": "section_7-3.html#section_7-3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Add and subtract rational expressions with a common denominator.  Determine the LCD for rational expressions with different denominators.  Add rational expressions with different denominators.  Subtract rational expressions with different denominators.   "
+},
+{
+  "id": "section_7-3-3",
+  "level": "2",
+  "url": "section_7-3.html#section_7-3-3",
+  "type": "Example",
+  "number": "101",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-3-4",
+  "level": "2",
+  "url": "section_7-3.html#section_7-3-4",
+  "type": "Example",
+  "number": "102",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-3-5",
+  "level": "2",
+  "url": "section_7-3.html#section_7-3-5",
+  "type": "Example",
+  "number": "103",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-3-6",
+  "level": "2",
+  "url": "section_7-3.html#section_7-3-6",
+  "type": "Example",
+  "number": "104",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-4",
+  "level": "1",
+  "url": "section_7-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.4: Simplifying Complex Rational Expressions",
+  "body": " Section 7.4: Simplifying Complex Rational Expressions    Simplify complex rational expressions by adding or subtracting in the numerator and denominator.  Simplify complex rational expressions using the LCD.  Identify acceptable values for variables in a rational expression.  Use arithmetic operations to simplify rational expressions.                                "
+},
+{
+  "id": "section_7-4-2",
+  "level": "2",
+  "url": "section_7-4.html#section_7-4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Simplify complex rational expressions by adding or subtracting in the numerator and denominator.  Simplify complex rational expressions using the LCD.  Identify acceptable values for variables in a rational expression.  Use arithmetic operations to simplify rational expressions.   "
+},
+{
+  "id": "section_7-4-3",
+  "level": "2",
+  "url": "section_7-4.html#section_7-4-3",
+  "type": "Example",
+  "number": "105",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-4-4",
+  "level": "2",
+  "url": "section_7-4.html#section_7-4-4",
+  "type": "Example",
+  "number": "106",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-4-5",
+  "level": "2",
+  "url": "section_7-4.html#section_7-4-5",
+  "type": "Example",
+  "number": "107",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-4-6",
+  "level": "2",
+  "url": "section_7-4.html#section_7-4-6",
+  "type": "Example",
+  "number": "108",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-5",
+  "level": "1",
+  "url": "section_7-5.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.5: Solving Equations Involving Rational Expressions",
+  "body": " Section 7.5: Solving Equations Involving Rational Expressions    Solve equations involving rational expressions.  Determine which values are not allowable replacements for x.                                "
+},
+{
+  "id": "section_7-5-2",
+  "level": "2",
+  "url": "section_7-5.html#section_7-5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Solve equations involving rational expressions.  Determine which values are not allowable replacements for x.   "
+},
+{
+  "id": "section_7-5-3",
+  "level": "2",
+  "url": "section_7-5.html#section_7-5-3",
+  "type": "Example",
+  "number": "109",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-5-4",
+  "level": "2",
+  "url": "section_7-5.html#section_7-5-4",
+  "type": "Example",
+  "number": "110",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-5-5",
+  "level": "2",
+  "url": "section_7-5.html#section_7-5-5",
+  "type": "Example",
+  "number": "111",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-5-6",
+  "level": "2",
+  "url": "section_7-5.html#section_7-5-6",
+  "type": "Example",
+  "number": "112",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-6",
+  "level": "1",
+  "url": "section_7-6.html",
+  "type": "Section",
+  "number": "",
+  "title": "Section 7.6: Ratio, Proportion, and Other Applied Problems",
+  "body": " Section 7.6: Ratio, Proportion, and Other Applied Problems    Solve problems involving ratio and proportion.  Solve applications involving ratio and proportion.  Solve problems involving similar geometric shapes.  Solve applications involving work.                                "
+},
+{
+  "id": "section_7-6-2",
+  "level": "2",
+  "url": "section_7-6.html#section_7-6-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Solve problems involving ratio and proportion.  Solve applications involving ratio and proportion.  Solve problems involving similar geometric shapes.  Solve applications involving work.   "
+},
+{
+  "id": "section_7-6-3",
+  "level": "2",
+  "url": "section_7-6.html#section_7-6-3",
+  "type": "Example",
+  "number": "113",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-6-4",
+  "level": "2",
+  "url": "section_7-6.html#section_7-6-4",
+  "type": "Example",
+  "number": "114",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-6-5",
+  "level": "2",
+  "url": "section_7-6.html#section_7-6-5",
+  "type": "Example",
+  "number": "115",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "section_7-6-6",
+  "level": "2",
+  "url": "section_7-6.html#section_7-6-6",
+  "type": "Example",
+  "number": "116",
+  "title": "",
+  "body": "      "
 }
 ]
 
