@@ -1429,7 +1429,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 7.1: Simplifying Rational Expressions",
-  "body": " Section 7.1: Simplifying Rational Expressions    Simplify rational expressions by factoring.                                "
+  "body": " Section 7.1: Simplifying Rational Expressions    Simplify rational expressions by factoring.    Simplify.               "
 },
 {
   "id": "section_7-1-2",
@@ -1447,34 +1447,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "93",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-1-4",
-  "level": "2",
-  "url": "section_7-1.html#section_7-1-4",
-  "type": "Example",
-  "number": "94",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-1-5",
-  "level": "2",
-  "url": "section_7-1.html#section_7-1-5",
-  "type": "Example",
-  "number": "95",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-1-6",
-  "level": "2",
-  "url": "section_7-1.html#section_7-1-6",
-  "type": "Example",
-  "number": "96",
-  "title": "",
-  "body": "      "
+  "body": "Simplify.              "
 },
 {
   "id": "section_7-2",
@@ -1483,7 +1456,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 7.2: Multiplying and Dividing Rational Expressions",
-  "body": " Section 7.2: Multiplying and Dividing Rational Expressions    Multiply rational expressions.  Divide rational expressions.                                "
+  "body": " Section 7.2: Multiplying and Dividing Rational Expressions    Multiply rational expressions.  Divide rational expressions.    Perform the operation indicated.            "
 },
 {
   "id": "section_7-2-2",
@@ -1499,36 +1472,9 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_7-2.html#section_7-2-3",
   "type": "Example",
-  "number": "97",
+  "number": "94",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-2-4",
-  "level": "2",
-  "url": "section_7-2.html#section_7-2-4",
-  "type": "Example",
-  "number": "98",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-2-5",
-  "level": "2",
-  "url": "section_7-2.html#section_7-2-5",
-  "type": "Example",
-  "number": "99",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-2-6",
-  "level": "2",
-  "url": "section_7-2.html#section_7-2-6",
-  "type": "Example",
-  "number": "100",
-  "title": "",
-  "body": "      "
+  "body": "Perform the operation indicated.           "
 },
 {
   "id": "section_7-3",
@@ -1537,7 +1483,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 7.3: Adding and Subtracting Rational Expressions",
-  "body": " Section 7.3: Adding and Subtracting Rational Expressions    Add and subtract rational expressions with a common denominator.  Determine the LCD for rational expressions with different denominators.  Add rational expressions with different denominators.  Subtract rational expressions with different denominators.                                "
+  "body": " Section 7.3: Adding and Subtracting Rational Expressions    Add and subtract rational expressions with a common denominator.  Determine the LCD for rational expressions with different denominators.  Add rational expressions with different denominators.  Subtract rational expressions with different denominators.    Perform the operation indicated. Simplify.          Find the LCD. Do not combine fractions.          Perform the operation indicated. Simplify.            "
 },
 {
   "id": "section_7-3-2",
@@ -1553,90 +1499,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_7-3.html#section_7-3-3",
   "type": "Example",
-  "number": "101",
+  "number": "95",
   "title": "",
-  "body": "      "
+  "body": "Perform the operation indicated. Simplify.         "
 },
 {
   "id": "section_7-3-4",
   "level": "2",
   "url": "section_7-3.html#section_7-3-4",
   "type": "Example",
-  "number": "102",
+  "number": "96",
   "title": "",
-  "body": "      "
+  "body": "Find the LCD. Do not combine fractions.         "
 },
 {
   "id": "section_7-3-5",
   "level": "2",
   "url": "section_7-3.html#section_7-3-5",
   "type": "Example",
-  "number": "103",
+  "number": "97",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-3-6",
-  "level": "2",
-  "url": "section_7-3.html#section_7-3-6",
-  "type": "Example",
-  "number": "104",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-4",
-  "level": "1",
-  "url": "section_7-4.html",
-  "type": "Section",
-  "number": "",
-  "title": "Section 7.4: Simplifying Complex Rational Expressions",
-  "body": " Section 7.4: Simplifying Complex Rational Expressions    Simplify complex rational expressions by adding or subtracting in the numerator and denominator.  Simplify complex rational expressions using the LCD.  Identify acceptable values for variables in a rational expression.  Use arithmetic operations to simplify rational expressions.                                "
-},
-{
-  "id": "section_7-4-2",
-  "level": "2",
-  "url": "section_7-4.html#section_7-4-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "  Simplify complex rational expressions by adding or subtracting in the numerator and denominator.  Simplify complex rational expressions using the LCD.  Identify acceptable values for variables in a rational expression.  Use arithmetic operations to simplify rational expressions.   "
-},
-{
-  "id": "section_7-4-3",
-  "level": "2",
-  "url": "section_7-4.html#section_7-4-3",
-  "type": "Example",
-  "number": "105",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-4-4",
-  "level": "2",
-  "url": "section_7-4.html#section_7-4-4",
-  "type": "Example",
-  "number": "106",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-4-5",
-  "level": "2",
-  "url": "section_7-4.html#section_7-4-5",
-  "type": "Example",
-  "number": "107",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-4-6",
-  "level": "2",
-  "url": "section_7-4.html#section_7-4-6",
-  "type": "Example",
-  "number": "108",
-  "title": "",
-  "body": "      "
+  "body": "Perform the operation indicated. Simplify.           "
 },
 {
   "id": "section_7-5",
@@ -1645,7 +1528,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 7.5: Solving Equations Involving Rational Expressions",
-  "body": " Section 7.5: Solving Equations Involving Rational Expressions    Solve equations involving rational expressions.  Determine which values are not allowable replacements for x.                                "
+  "body": " Section 7.5: Solving Equations Involving Rational Expressions    Solve equations involving rational expressions.  Determine which values are not allowable replacements for x.    What values are not allowable replacements for the variable x? Do not solve the equation.      Solve and check.            "
 },
 {
   "id": "section_7-5-2",
@@ -1661,36 +1544,18 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_7-5.html#section_7-5-3",
   "type": "Example",
-  "number": "109",
+  "number": "98",
   "title": "",
-  "body": "      "
+  "body": "What values are not allowable replacements for the variable x? Do not solve the equation.     "
 },
 {
   "id": "section_7-5-4",
   "level": "2",
   "url": "section_7-5.html#section_7-5-4",
   "type": "Example",
-  "number": "110",
+  "number": "99",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-5-5",
-  "level": "2",
-  "url": "section_7-5.html#section_7-5-5",
-  "type": "Example",
-  "number": "111",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-5-6",
-  "level": "2",
-  "url": "section_7-5.html#section_7-5-6",
-  "type": "Example",
-  "number": "112",
-  "title": "",
-  "body": "      "
+  "body": "Solve and check.           "
 },
 {
   "id": "section_7-6",
@@ -1699,7 +1564,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 7.6: Ratio, Proportion, and Other Applied Problems",
-  "body": " Section 7.6: Ratio, Proportion, and Other Applied Problems    Solve problems involving ratio and proportion.  Solve applications involving ratio and proportion.  Solve problems involving similar geometric shapes.  Solve applications involving work.                                "
+  "body": " Section 7.6: Ratio, Proportion, and Other Applied Problems    Solve problems involving ratio and proportion.  Solve applications involving ratio and proportion.  Solve problems involving similar geometric shapes.  Solve applications involving work.    Solve.     A recent advertisement claimed that 2 out of every 5 doctors recommend a certain herbal supplement to increase energy levels. If a local hospital employs 200 doctors, how many doctors would you expect to recommend the supplement? (Round to the nearest whole number, if necessary.)  Sandra scored 68 points in 11 games of the basketball season. Find her average points per game. (Round to the nearest whole number, if necessary.)      If a tree 27.5 feet tall casts a shadow that is 11 feet long, find the height of a tree casting a shadow that is 23 feet long. Round to the nearest tenth of a foot, if necessary.  A cyclist bikes at a constant speed for 15 miles. He then returns home at the same speed but takes a different route. His return trip takes one hour longer and is 20 miles. Find his speed.  A boat moves 10 kilometers upstream in the same amount of time it moves 15 kilometers downstream. If the rate of the current is 7 kilometers per hour, find the rate of the boat in still water.  Jim can run 5 miles per hour on level ground on a still day. One windy day, he runs 10 miles with the wind, and in the same amount of time runs 6 miles against the wind. What is the rate of the wind?  A painter can finish painting a house in 3 hours. Her assistant takes 5 hours to finish the same job. How long would it take for them to complete the job if they were working together?  A baker can decorate the day's cookie supply four times as fast as his new assistant. If they decorate all the cookies working together in 36 minutes, how long would it take for each of them to decorate the cookies working individually?    The triangles are similar. Use them to find the length of side x.     "
 },
 {
   "id": "section_7-6-2",
@@ -1715,36 +1580,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_7-6.html#section_7-6-3",
   "type": "Example",
-  "number": "113",
+  "number": "100",
   "title": "",
-  "body": "      "
+  "body": "Solve.     A recent advertisement claimed that 2 out of every 5 doctors recommend a certain herbal supplement to increase energy levels. If a local hospital employs 200 doctors, how many doctors would you expect to recommend the supplement? (Round to the nearest whole number, if necessary.)  Sandra scored 68 points in 11 games of the basketball season. Find her average points per game. (Round to the nearest whole number, if necessary.)   "
 },
 {
   "id": "section_7-6-4",
   "level": "2",
   "url": "section_7-6.html#section_7-6-4",
   "type": "Example",
-  "number": "114",
+  "number": "101",
   "title": "",
-  "body": "      "
+  "body": "  If a tree 27.5 feet tall casts a shadow that is 11 feet long, find the height of a tree casting a shadow that is 23 feet long. Round to the nearest tenth of a foot, if necessary.  A cyclist bikes at a constant speed for 15 miles. He then returns home at the same speed but takes a different route. His return trip takes one hour longer and is 20 miles. Find his speed.  A boat moves 10 kilometers upstream in the same amount of time it moves 15 kilometers downstream. If the rate of the current is 7 kilometers per hour, find the rate of the boat in still water.  Jim can run 5 miles per hour on level ground on a still day. One windy day, he runs 10 miles with the wind, and in the same amount of time runs 6 miles against the wind. What is the rate of the wind?  A painter can finish painting a house in 3 hours. Her assistant takes 5 hours to finish the same job. How long would it take for them to complete the job if they were working together?  A baker can decorate the day's cookie supply four times as fast as his new assistant. If they decorate all the cookies working together in 36 minutes, how long would it take for each of them to decorate the cookies working individually?   "
 },
 {
   "id": "section_7-6-5",
   "level": "2",
   "url": "section_7-6.html#section_7-6-5",
   "type": "Example",
-  "number": "115",
+  "number": "102",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_7-6-6",
-  "level": "2",
-  "url": "section_7-6.html#section_7-6-6",
-  "type": "Example",
-  "number": "116",
-  "title": "",
-  "body": "      "
+  "body": "The triangles are similar. Use them to find the length of side x.    "
 }
 ]
 
