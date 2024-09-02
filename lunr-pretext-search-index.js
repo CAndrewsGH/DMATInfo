@@ -673,7 +673,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "2.1: The Addition Principle of Equality",
-  "body": " 2.1: The Addition Principle of Equality    Define and explain the addition principle of equality.  Use the addition principle to solve equations of the form x+b=c.  Determine whether a proposed solution to an equation solvable using the Addition Principle is correct.                                "
+  "body": " 2.1: The Addition Principle of Equality    Define and explain the addition principle of equality.  Use the addition principle to solve equations of the form x+b=c.  Determine whether a proposed solution to an equation solvable using the Addition Principle is correct.    Solve for x. Check your answers.          Find the value of x that satisfies the equation.          Determine if the given solution is correct. If it is not, find the solution.  Is -20 the solution to ?  Is -8 the solution to ?    "
 },
 {
   "id": "section_2-1-2",
@@ -691,7 +691,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "47",
   "title": "",
-  "body": "      "
+  "body": "Solve for x. Check your answers.         "
 },
 {
   "id": "section_2-1-4",
@@ -700,7 +700,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "48",
   "title": "",
-  "body": "      "
+  "body": "Find the value of x that satisfies the equation.         "
 },
 {
   "id": "section_2-1-5",
@@ -709,16 +709,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "49",
   "title": "",
-  "body": "      "
-},
-{
-  "id": "section_2-1-6",
-  "level": "2",
-  "url": "section_2-1.html#section_2-1-6",
-  "type": "Example",
-  "number": "50",
-  "title": "",
-  "body": "      "
+  "body": "Determine if the given solution is correct. If it is not, find the solution.  Is -20 the solution to ?  Is -8 the solution to ?   "
 },
 {
   "id": "section_2-2",
@@ -743,7 +734,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-2.html#section_2-2-3",
   "type": "Example",
-  "number": "51",
+  "number": "50",
   "title": "",
   "body": "Solve for x. Be sure to reduce your answer. Check your solution.          "
 },
@@ -752,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-2.html#section_2-2-4",
   "type": "Example",
-  "number": "52",
+  "number": "51",
   "title": "",
   "body": "Find the value of the variable that satisfies the equation.      "
 },
@@ -761,7 +752,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-2.html#section_2-2-5",
   "type": "Example",
-  "number": "53",
+  "number": "52",
   "title": "",
   "body": "Determine if the given solution is correct. If it is not, find the solution.  Is -16 the solution to ?  Is the solution to ?   "
 },
@@ -788,7 +779,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-3.html#section_2-3-3",
   "type": "Example",
-  "number": "54",
+  "number": "53",
   "title": "",
   "body": "             "
 },
@@ -797,7 +788,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-3.html#section_2-3-4",
   "type": "Example",
-  "number": "55",
+  "number": "54",
   "title": "",
   "body": "Determine whether the given solution is correct. If it is not, find the solution.  Is 5 the solution for ?  Is 11 the solution for ?   "
 },
@@ -824,7 +815,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-4.html#section_2-4-3",
   "type": "Example",
-  "number": "56",
+  "number": "55",
   "title": "",
   "body": "Solve.          "
 },
@@ -833,7 +824,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-4.html#section_2-4-4",
   "type": "Example",
-  "number": "57",
+  "number": "56",
   "title": "",
   "body": "Solve.       "
 },
@@ -842,7 +833,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-4.html#section_2-4-5",
   "type": "Example",
-  "number": "58",
+  "number": "57",
   "title": "",
   "body": "Is the given value a solution for the equation?  Is -35 a solution to ?  Is 4 a solution to ?   "
 },
@@ -869,7 +860,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-5.html#section_2-5-3",
   "type": "Example",
-  "number": "59",
+  "number": "58",
   "title": "",
   "body": "Write an algebraic expression for the quantity. Let x represent the unknown value.  A quantity increased by 13.  Eleven greater than a number.  Ten fewer than a number.  Four divided by a number.  A value decreased by one.  Half of a quantity.  The sum of two times a number and three.  Nine times the sum of a number and seven.  Ten less than one-eighth of a number.  Eleven times a number decreased by one-half of the same number.   "
 },
@@ -878,7 +869,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-5.html#section_2-5-4",
   "type": "Example",
-  "number": "60",
+  "number": "59",
   "title": "",
   "body": "Write an algebraic expression for the quantities being compared.  Evan works 15 hours per week more than Marc.  At Dave's Deli, the reuben sandwich cost $1.59 more than the turkey sandwich.  The length of a rectangle is 19 feet more than triple the width.  The attendance on Monday was 34 people more than on Tuesday. The attendance on Wednesday was 37 people fewer than on Tuesday.   "
 },
@@ -905,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-6.html#section_2-6-3",
   "type": "Example",
-  "number": "61",
+  "number": "60",
   "title": "",
   "body": "Solve.  What number minus 258 gives 726?  What number added to 227 gives 673?  A number divided by six is 306. What is the number?  Five times a number is six. What is the number?  When two is subtracted from half of a number the result is 28. What is the original number?  Four less than nine times a number is the same as eleven times the number. Find the number.  When seventeen is reduced by one-third of a number, the result is 13. Find the number.   "
 },
@@ -914,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-6.html#section_2-6-4",
   "type": "Example",
-  "number": "62",
+  "number": "61",
   "title": "",
   "body": "Solve.  A motorcycle shop maintains an inventory of three times as many new bikes as used bikes. If there are 120 new bikes, how many used bikes are now in stock?  The inventory at AutoPlace is one-eighth the inventory at CarMart. If AutoPlace has 248 vehicles on the lot, how many vehicles does CarMart have in stock?  A promotional deal for phone service charges a $15 basic fee plus $0.05 per minute for all calls. If Joe's phone bill was $68 under this promotional deal, how many minutes of phone calls did he make? Round to the nearest integer, if necessary.  Larry makes $28 per hour for a 40-hour week and time an a half for every hour over 40 hours. If Larry made $1,624 last week, how many overtime hours did he work?  Two cars start from the same point and travel in the same direction. If one car is traveling 57 miles per hour and the other car is traveling at 51 miles per hour, how far apart will they be after 1.6 hours?  Libby's 4 quiz scores in her math class are 86, 92, 89, and 76. What score does she need to obtain on her next quiz to average an 85? Round to the nearest whole number if necessary.   "
 },
@@ -941,7 +932,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-7.html#section_2-7-3",
   "type": "Example",
-  "number": "63",
+  "number": "62",
   "title": "",
   "body": "Solve.  Michael hired Heather to iron his dress shirts. Heather charges $40 an hour plus $0.25 for each shirt ironed. Heather worked 3 hours and sent a bill to Michael for $125. How many shirts did Heather iron?  Raymond's job pays $22 per hour for the first forty hours and $33 per hour for each hour in the week worked above the 40 hours. If he earned $1,210 this week, how many overtime hours did he work?  Susan charges $120 plus $40 an hour to clean houses. If a client's total bill were $280, how many hours did Susan spend cleaning the client's house?  A consultant charges $100 plus $50 an hour. How many hours did the consultant work if the total bill were $850?  Holly bought a sweater on sale for 40% off the original price. If she saved $24, what was the original price?  Ming got a 3% raise in her salary from last year. This year she is earning $30,900. How much did she make last year?  A brother and sister split the $1,166,000 from the sale of their parent's house. According to the will, the sister was to receive 20% more than her brother, for having managed the property. How much money did the sister receive?  Kevin invested part of his $10,000 bonus in a certificate of deposit that paid 6% annual simple interest, and the remainder in a mutual fund that paid 11% annual simple interest. If his total interest for that year was $700, how much did Kevin invest in the mutual fund?  A bank loaned out $50,000, part of it at the rate of 11% per year and the rest at a rate of 7% per year. If the interest received was $4,740, how much was loaned at 11%?  Sue took her collection of nickels and dimes to deposit in the bank. She has five fewer nickels than dimes. Her total deposit was $73.40. How many dimes did she deposit?  A theatrical production company donated free tickets for their show to the local Boys \\amp Girls Club. They claimed that the ticket value was $225 A child's ticket cost $4.25 and an adult ticket cost $6.50. If there were twice as many children's tickets as adult tickets, how many adults and children got to attend the show for free?   "
 },
@@ -968,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-8.html#section_2-8-3",
   "type": "Example",
-  "number": "64",
+  "number": "63",
   "title": "",
   "body": "Replace the \"?\" by or .       "
 },
@@ -977,7 +968,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-8.html#section_2-8-4",
   "type": "Example",
-  "number": "65",
+  "number": "64",
   "title": "",
   "body": "Graph the inequality on a number line.       "
 },
@@ -986,7 +977,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-8.html#section_2-8-5",
   "type": "Example",
-  "number": "66",
+  "number": "65",
   "title": "",
   "body": "Translate each graph to an inequality using the variable x.                       "
 },
@@ -995,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_2-8.html#section_2-8-6",
   "type": "Example",
-  "number": "67",
+  "number": "66",
   "title": "",
   "body": "Translate the English statement into an inequality.  The cost of shoes must be less than $68. (Use the variable c for the cost.)  The speed of the bike is more than 7 mph. (Use the variable s for the speed.) The number of people the school can hold is at most 109. (Use the variable p for number of people.) The rocket must reach a speed of at least 955 mph. (Use the variable V for speed.) -->  "
 },
@@ -1022,7 +1013,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-5.html#section_T-5-3",
   "type": "Example",
-  "number": "68",
+  "number": "67",
   "title": "",
   "body": "Evaluate.  for  for  for  for   "
 },
@@ -1031,7 +1022,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-5.html#section_T-5-4",
   "type": "Example",
-  "number": "69",
+  "number": "68",
   "title": "",
   "body": "Write the equation of the line in slope-intercept form.  , y-intercept (0, 6)  , y-intercept (0, -5)  , y-intercept (0, -8)  , point (1,3)  , point (4,5)     "
 },
@@ -1040,7 +1031,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-5.html#section_T-5-5",
   "type": "Example",
-  "number": "70",
+  "number": "69",
   "title": "",
   "body": "Solve the problem.  A line has a slope of -12. What is the slope of a line parallel to it?  A line has a slope of . What is the slope of a line perpendicular to it?  The equation of a line is . What is the slope of a line parallel to it?  The equation of a line is . What is the slope of a line perpendicular to it?   "
 },
@@ -1049,7 +1040,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-5.html#section_T-5-6",
   "type": "Example",
-  "number": "71",
+  "number": "70",
   "title": "",
   "body": "Determine whether the following lines are parallel, perpendicular, or neither.      "
 },
@@ -1076,7 +1067,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-3",
   "type": "Example",
-  "number": "72",
+  "number": "71",
   "title": "",
   "body": "Determine whether the given ordered pair is a solution to the system of equations.     "
 },
@@ -1085,7 +1076,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-4",
   "type": "Example",
-  "number": "73",
+  "number": "72",
   "title": "",
   "body": "Use the substitution method to solve the system.      "
 },
@@ -1094,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-5",
   "type": "Example",
-  "number": "74",
+  "number": "73",
   "title": "",
   "body": "If possible, solve the system of equations. Use any method. If there is not a unique solution to a system, say why.       "
 },
@@ -1103,7 +1094,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-6",
   "type": "Example",
-  "number": "75",
+  "number": "74",
   "title": "",
   "body": "Solve.  A couple have bought a new house and are comparing quotes from two moving companies for moving their furniture. Company A charges $90 for the truck and $60 per hour for the movers. Company B charges $70 for the truck and $75 per hour for the movers. Create a cost equation for each company where y is the total cost and x is the number of hours of labor. Write a system of equations.  Megan is having her yard landscaped. She obtained an estimate from two landscaping companies. Company A gave an estimate of $180 for materials and equipment rental plus $45 per hour for labor. Company B gave and estimate of $250 for materials and equipment rental plus $35 per hour for labor. Create a cost equation for each company where y is the total cost of the landscaping and x is the number of hours of labor. Determine how many hours of labor will be required for the two companies to cost the same.   "
 },
@@ -1112,7 +1103,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-7",
   "type": "Example",
-  "number": "76",
+  "number": "75",
   "title": "",
   "body": "Find the solution to the system by addition (elimination) method.      "
 },
@@ -1121,7 +1112,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-1.html#section_4-1-8",
   "type": "Example",
-  "number": "77",
+  "number": "76",
   "title": "",
   "body": "Solve the system by graphing.      "
 },
@@ -1148,7 +1139,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_4-3.html#section_4-3-3",
   "type": "Example",
-  "number": "78",
+  "number": "77",
   "title": "",
   "body": "Solve the problem.  The Family Fine Arts Center charges $21 per adult and $10 per senior citizen for its performances. On a recent weekend evening when 575 people paid admission, the total receipts were $7,752. How many who paid were senior citizens?  A tour group split into two groups when waiting in line for food at a fast food counter. The first group bought 6 slices of pizza and 5 soft drinks for $29.04. The second group bought 5 slices of pizza and 5 soft drinks for $25.60. How much does one slice of pizza cost?  A twin-engined aircraft can fly 1,280 miles from city A to city B in 4 hours with the wind and make the return trip in 8 hours against the wind. What is the speed of the wind?  Tina Thompson scored 31 points in a recent basketball game without making any 3-point shots. She scored 21 times, making several free throws worth 1 point each and several field goals worth two points each. How many free throws did she make? How many 2-point field goals did she make? Julio has found that his new car gets 36 miles per gallon on the highway and 30 miles per gallon in the city. He recently drove 312 miles on 9 gallons of gasoline. How many miles did he drive on the highway? How many miles did he drive in the city?   "
 },
@@ -1175,7 +1166,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-2.html#section_T-2-3",
   "type": "Example",
-  "number": "79",
+  "number": "78",
   "title": "",
   "body": "Add or subtract the polynomials.        "
 },
@@ -1184,7 +1175,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-2.html#section_T-2-4",
   "type": "Example",
-  "number": "80",
+  "number": "79",
   "title": "",
   "body": "Multiply a polynomial by a monomial.      "
 },
@@ -1193,7 +1184,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-2.html#section_T-2-5",
   "type": "Example",
-  "number": "81",
+  "number": "80",
   "title": "",
   "body": "Multiply two binomials by \"FOIL.\"        "
 },
@@ -1202,7 +1193,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_T-2.html#section_T-2-6",
   "type": "Example",
-  "number": "82",
+  "number": "81",
   "title": "",
   "body": "Multiply polynomials with more than two terms.     "
 },
@@ -1229,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-1.html#section_6-1-3",
   "type": "Example",
-  "number": "83",
+  "number": "82",
   "title": "",
   "body": "Factor out the largest possible common factor.           "
 },
@@ -1256,7 +1247,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-2.html#section_6-2-3",
   "type": "Example",
-  "number": "84",
+  "number": "83",
   "title": "",
   "body": "Factor by grouping.        "
 },
@@ -1283,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-3",
   "type": "Example",
-  "number": "85",
+  "number": "84",
   "title": "",
   "body": "Factor.          "
 },
@@ -1292,7 +1283,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-3.html#section_6-3-4",
   "type": "Example",
-  "number": "86",
+  "number": "85",
   "title": "",
   "body": "Find a polynomial in factored form for the shaded region.  graphic(Miscellaneous:pic1.bmp - )  "
 },
@@ -1319,7 +1310,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-3",
   "type": "Example",
-  "number": "87",
+  "number": "86",
   "title": "",
   "body": "Factor by grouping, using the AC-method.      "
 },
@@ -1328,7 +1319,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-4.html#section_6-4-4",
   "type": "Example",
-  "number": "88",
+  "number": "87",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.         "
 },
@@ -1355,7 +1346,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-3",
   "type": "Example",
-  "number": "89",
+  "number": "88",
   "title": "",
   "body": "Factor.           "
 },
@@ -1364,7 +1355,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-5.html#section_6-5-4",
   "type": "Example",
-  "number": "90",
+  "number": "89",
   "title": "",
   "body": "If possible, factor the polynomial completely. If a polynomial cannot be factored, state that it is prime.      "
 },
@@ -1391,7 +1382,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-6.html#section_6-6-3",
   "type": "Example",
-  "number": "91",
+  "number": "90",
   "title": "",
   "body": "Factor as completely as possible. If unfactorable, indicate that the polynomial is prime.        "
 },
@@ -1418,7 +1409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-3",
   "type": "Example",
-  "number": "92",
+  "number": "91",
   "title": "",
   "body": "Solve the equation.           "
 },
@@ -1427,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_6-7.html#section_6-7-4",
   "type": "Example",
-  "number": "93",
+  "number": "92",
   "title": "",
   "body": "Solve the problem.  The perimeter of the quadrilateral is 108 inches. Find the lengths of the sides. graphic(Miscellaneous:572_2.bmp - )  The width of a rectangle is 6 kilometers less than twice its length. If its area is 176 square kilometers, find the dimensions of the rectangle.  An object is thrown upward from the top of a 160-foot building with an initial velocity of 48 feet per second. The height h of the object after t seconds is given by the quadratic equation . When will the object hit the ground?  If the cost, C, for manufacturing x units of a certain product is given by , find the number of units manufactured at a cost of $8,600.  The sum of a number and its square is 12. Find the number.   "
 }
