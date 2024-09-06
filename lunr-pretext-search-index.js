@@ -1258,7 +1258,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 6.3: Factoring Trinomials of the Form x^2+bx+c.",
-  "body": " Section 6.3: Factoring Trinomials of the Form x^2+bx+c.    Factor polynomials of the form x^2+bx+c.  Factor polynomials that have a common factor and a factor of the form x^2+bx+c.    Factor.           Find a polynomial in factored form for the shaded region.  graphic(Miscellaneous:pic1.bmp - )   "
+  "body": " Section 6.3: Factoring Trinomials of the Form x^2+bx+c.    Factor polynomials of the form x^2+bx+c.  Factor polynomials that have a common factor and a factor of the form x^2+bx+c.    Factor.           Find a polynomial in factored form for the shaded region.     "
 },
 {
   "id": "section_6-3-2",
@@ -1285,7 +1285,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "85",
   "title": "",
-  "body": "Find a polynomial in factored form for the shaded region.  graphic(Miscellaneous:pic1.bmp - )  "
+  "body": "Find a polynomial in factored form for the shaded region.    "
 },
 {
   "id": "section_6-4",
