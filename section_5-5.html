@@ -8,12 +8,11 @@
 <html lang="en-US" dir="ltr">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Section Title</title>
+<title>5.5: Multiplication: Special Cases</title>
 <meta name="Keywords" content="Authored in PreTeXt">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="og:type" content="book">
 <meta property="book:title" content="DMAT Instructor Information">
-<meta property="book:author" content="Candace Andrews">
 <script>
 var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
@@ -86,7 +85,7 @@ window.MathJax = {
 <link href="_static/pretext/css/toc_default.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/knowls_default.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/style_default.css" rel="stylesheet" type="text/css">
-<link href="_static/pretext/css/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/colors_cmga_default.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/setcolors.css" rel="stylesheet" type="text/css">
 <style>
 #section_0-1-3-1-1 { counter-set: section_0-1-3-1-1 0; }
@@ -104,37 +103,502 @@ window.MathJax = {
 #section_0-1-7-1-1 { counter-set: section_0-1-7-1-1 0; }
 #section_0-1-7-1-1 > li::marker { content: ""counter(section_0-1-7-1-1,lower-alpha)")"; }
 #section_0-1-7-1-1 > li { counter-increment: section_0-1-7-1-1; }
-#section-26-idea-2-1-2 { counter-set: section-26-idea-2-1-2 0; }
-#section-26-idea-2-1-2 > li::marker { content: ""counter(section-26-idea-2-1-2,lower-alpha)""; }
-#section-26-idea-2-1-2 > li { counter-increment: section-26-idea-2-1-2; }
-#section-26-idea-2-2-1 { counter-set: section-26-idea-2-2-1 0; }
-#section-26-idea-2-2-1 > li::marker { content: ""counter(section-26-idea-2-2-1,lower-alpha)""; }
-#section-26-idea-2-2-1 > li { counter-increment: section-26-idea-2-2-1; }
-#section-26-idea-3-1-2 { counter-set: section-26-idea-3-1-2 0; }
-#section-26-idea-3-1-2 > li::marker { content: ""counter(section-26-idea-3-1-2,lower-alpha)""; }
-#section-26-idea-3-1-2 > li { counter-increment: section-26-idea-3-1-2; }
-#section-26-idea-3-2-1 { counter-set: section-26-idea-3-2-1 0; }
-#section-26-idea-3-2-1 > li::marker { content: ""counter(section-26-idea-3-2-1,lower-alpha)""; }
-#section-26-idea-3-2-1 > li { counter-increment: section-26-idea-3-2-1; }
-#section-26-preclass-3-1-1 { counter-set: section-26-preclass-3-1-1 0; }
-#section-26-preclass-3-1-1 > li::marker { content: ""counter(section-26-preclass-3-1-1,lower-alpha)""; }
-#section-26-preclass-3-1-1 > li { counter-increment: section-26-preclass-3-1-1; }
-#section-26-preclass-3-2-1 { counter-set: section-26-preclass-3-2-1 0; }
-#section-26-preclass-3-2-1 > li::marker { content: ""counter(section-26-preclass-3-2-1,lower-alpha)""; }
-#section-26-preclass-3-2-1 > li { counter-increment: section-26-preclass-3-2-1; }
-#section-26-inclass-2-1-1 { counter-set: section-26-inclass-2-1-1 0; }
-#section-26-inclass-2-1-1 > li::marker { content: ""counter(section-26-inclass-2-1-1,lower-alpha)""; }
-#section-26-inclass-2-1-1 > li { counter-increment: section-26-inclass-2-1-1; }
-#section-26-inclass-2-2-1 { counter-set: section-26-inclass-2-2-1 0; }
-#section-26-inclass-2-2-1 > li::marker { content: ""counter(section-26-inclass-2-2-1,lower-alpha)""; }
-#section-26-inclass-2-2-1 > li { counter-increment: section-26-inclass-2-2-1; }
+#section_0-2-3-1-1 { counter-set: section_0-2-3-1-1 0; }
+#section_0-2-3-1-1 > li::marker { content: ""counter(section_0-2-3-1-1,lower-alpha)")"; }
+#section_0-2-3-1-1 > li { counter-increment: section_0-2-3-1-1; }
+#section_0-2-4-1-1 { counter-set: section_0-2-4-1-1 0; }
+#section_0-2-4-1-1 > li::marker { content: ""counter(section_0-2-4-1-1,lower-alpha)")"; }
+#section_0-2-4-1-1 > li { counter-increment: section_0-2-4-1-1; }
+#section_0-2-5-1-1 { counter-set: section_0-2-5-1-1 0; }
+#section_0-2-5-1-1 > li::marker { content: ""counter(section_0-2-5-1-1,lower-alpha)")"; }
+#section_0-2-5-1-1 > li { counter-increment: section_0-2-5-1-1; }
+#section_0-3-3-1-1 { counter-set: section_0-3-3-1-1 0; }
+#section_0-3-3-1-1 > li::marker { content: ""counter(section_0-3-3-1-1,lower-alpha)")"; }
+#section_0-3-3-1-1 > li { counter-increment: section_0-3-3-1-1; }
+#section_0-3-4-1-1 { counter-set: section_0-3-4-1-1 0; }
+#section_0-3-4-1-1 > li::marker { content: ""counter(section_0-3-4-1-1,lower-alpha)")"; }
+#section_0-3-4-1-1 > li { counter-increment: section_0-3-4-1-1; }
+#section_0-4-3-1-1 { counter-set: section_0-4-3-1-1 0; }
+#section_0-4-3-1-1 > li::marker { content: ""counter(section_0-4-3-1-1,lower-alpha)")"; }
+#section_0-4-3-1-1 > li { counter-increment: section_0-4-3-1-1; }
+#section_0-4-4-1-1 { counter-set: section_0-4-4-1-1 0; }
+#section_0-4-4-1-1 > li::marker { content: ""counter(section_0-4-4-1-1,lower-alpha)")"; }
+#section_0-4-4-1-1 > li { counter-increment: section_0-4-4-1-1; }
+#section_0-4-5-1-1 { counter-set: section_0-4-5-1-1 0; }
+#section_0-4-5-1-1 > li::marker { content: ""counter(section_0-4-5-1-1,lower-alpha)")"; }
+#section_0-4-5-1-1 > li { counter-increment: section_0-4-5-1-1; }
+#section_0-4-6-1-1 { counter-set: section_0-4-6-1-1 0; }
+#section_0-4-6-1-1 > li::marker { content: ""counter(section_0-4-6-1-1,lower-alpha)")"; }
+#section_0-4-6-1-1 > li { counter-increment: section_0-4-6-1-1; }
+#section_0-4-7-1-1 { counter-set: section_0-4-7-1-1 0; }
+#section_0-4-7-1-1 > li::marker { content: ""counter(section_0-4-7-1-1,lower-alpha)")"; }
+#section_0-4-7-1-1 > li { counter-increment: section_0-4-7-1-1; }
+#section_0-4-8-1-1 { counter-set: section_0-4-8-1-1 0; }
+#section_0-4-8-1-1 > li::marker { content: ""counter(section_0-4-8-1-1,lower-alpha)")"; }
+#section_0-4-8-1-1 > li { counter-increment: section_0-4-8-1-1; }
+#section_0-4-9-1-1 { counter-set: section_0-4-9-1-1 0; }
+#section_0-4-9-1-1 > li::marker { content: ""counter(section_0-4-9-1-1,lower-alpha)")"; }
+#section_0-4-9-1-1 > li { counter-increment: section_0-4-9-1-1; }
+#section_0-5-3-1-1 { counter-set: section_0-5-3-1-1 0; }
+#section_0-5-3-1-1 > li::marker { content: ""counter(section_0-5-3-1-1,lower-alpha)")"; }
+#section_0-5-3-1-1 > li { counter-increment: section_0-5-3-1-1; }
+#section_0-5-4-1-1 { counter-set: section_0-5-4-1-1 0; }
+#section_0-5-4-1-1 > li::marker { content: ""counter(section_0-5-4-1-1,lower-alpha)")"; }
+#section_0-5-4-1-1 > li { counter-increment: section_0-5-4-1-1; }
+#section_0-5-5-1-1 { counter-set: section_0-5-5-1-1 0; }
+#section_0-5-5-1-1 > li::marker { content: ""counter(section_0-5-5-1-1,lower-alpha)")"; }
+#section_0-5-5-1-1 > li { counter-increment: section_0-5-5-1-1; }
+#section_1-1-3-1-1 { counter-set: section_1-1-3-1-1 0; }
+#section_1-1-3-1-1 > li::marker { content: ""counter(section_1-1-3-1-1,lower-alpha)")"; }
+#section_1-1-3-1-1 > li { counter-increment: section_1-1-3-1-1; }
+#section_1-1-4-1-1 { counter-set: section_1-1-4-1-1 0; }
+#section_1-1-4-1-1 > li::marker { content: ""counter(section_1-1-4-1-1,lower-alpha)")"; }
+#section_1-1-4-1-1 > li { counter-increment: section_1-1-4-1-1; }
+#section_1-1-5-1-1 { counter-set: section_1-1-5-1-1 0; }
+#section_1-1-5-1-1 > li::marker { content: ""counter(section_1-1-5-1-1,lower-alpha)")"; }
+#section_1-1-5-1-1 > li { counter-increment: section_1-1-5-1-1; }
+#section_1-1-6-1-1 { counter-set: section_1-1-6-1-1 0; }
+#section_1-1-6-1-1 > li::marker { content: ""counter(section_1-1-6-1-1,lower-alpha)")"; }
+#section_1-1-6-1-1 > li { counter-increment: section_1-1-6-1-1; }
+#section_1-1-7-1-1 { counter-set: section_1-1-7-1-1 0; }
+#section_1-1-7-1-1 > li::marker { content: ""counter(section_1-1-7-1-1,lower-alpha)")"; }
+#section_1-1-7-1-1 > li { counter-increment: section_1-1-7-1-1; }
+#section_1-2-3-1-1 { counter-set: section_1-2-3-1-1 0; }
+#section_1-2-3-1-1 > li::marker { content: ""counter(section_1-2-3-1-1,lower-alpha)")"; }
+#section_1-2-3-1-1 > li { counter-increment: section_1-2-3-1-1; }
+#section_1-2-4-1-1 { counter-set: section_1-2-4-1-1 0; }
+#section_1-2-4-1-1 > li::marker { content: ""counter(section_1-2-4-1-1,lower-alpha)")"; }
+#section_1-2-4-1-1 > li { counter-increment: section_1-2-4-1-1; }
+#section_1-2-5-1-1 { counter-set: section_1-2-5-1-1 0; }
+#section_1-2-5-1-1 > li::marker { content: ""counter(section_1-2-5-1-1,lower-alpha)")"; }
+#section_1-2-5-1-1 > li { counter-increment: section_1-2-5-1-1; }
+#section_1-2-6-1-1 { counter-set: section_1-2-6-1-1 0; }
+#section_1-2-6-1-1 > li::marker { content: ""counter(section_1-2-6-1-1,lower-alpha)")"; }
+#section_1-2-6-1-1 > li { counter-increment: section_1-2-6-1-1; }
+#section_1-3-3-1-1 { counter-set: section_1-3-3-1-1 0; }
+#section_1-3-3-1-1 > li::marker { content: ""counter(section_1-3-3-1-1,lower-alpha)")"; }
+#section_1-3-3-1-1 > li { counter-increment: section_1-3-3-1-1; }
+#section_1-3-4-1-1 { counter-set: section_1-3-4-1-1 0; }
+#section_1-3-4-1-1 > li::marker { content: ""counter(section_1-3-4-1-1,lower-alpha)")"; }
+#section_1-3-4-1-1 > li { counter-increment: section_1-3-4-1-1; }
+#section_1-3-5-1-1 { counter-set: section_1-3-5-1-1 0; }
+#section_1-3-5-1-1 > li::marker { content: ""counter(section_1-3-5-1-1,lower-alpha)")"; }
+#section_1-3-5-1-1 > li { counter-increment: section_1-3-5-1-1; }
+#section_1-3-6-1-1 { counter-set: section_1-3-6-1-1 0; }
+#section_1-3-6-1-1 > li::marker { content: ""counter(section_1-3-6-1-1,lower-alpha)")"; }
+#section_1-3-6-1-1 > li { counter-increment: section_1-3-6-1-1; }
+#section_1-3-7-1-1 { counter-set: section_1-3-7-1-1 0; }
+#section_1-3-7-1-1 > li::marker { content: ""counter(section_1-3-7-1-1,lower-alpha)")"; }
+#section_1-3-7-1-1 > li { counter-increment: section_1-3-7-1-1; }
+#section_1-4-3-1-1 { counter-set: section_1-4-3-1-1 0; }
+#section_1-4-3-1-1 > li::marker { content: ""counter(section_1-4-3-1-1,lower-alpha)")"; }
+#section_1-4-3-1-1 > li { counter-increment: section_1-4-3-1-1; }
+#section_1-4-4-1-1 { counter-set: section_1-4-4-1-1 0; }
+#section_1-4-4-1-1 > li::marker { content: ""counter(section_1-4-4-1-1,lower-alpha)")"; }
+#section_1-4-4-1-1 > li { counter-increment: section_1-4-4-1-1; }
+#section_1-5-3-1-1 { counter-set: section_1-5-3-1-1 0; }
+#section_1-5-3-1-1 > li::marker { content: ""counter(section_1-5-3-1-1,lower-alpha)")"; }
+#section_1-5-3-1-1 > li { counter-increment: section_1-5-3-1-1; }
+#section_1-5-4-1-1 { counter-set: section_1-5-4-1-1 0; }
+#section_1-5-4-1-1 > li::marker { content: ""counter(section_1-5-4-1-1,lower-alpha)")"; }
+#section_1-5-4-1-1 > li { counter-increment: section_1-5-4-1-1; }
+#section_1-6-3-1-1 { counter-set: section_1-6-3-1-1 0; }
+#section_1-6-3-1-1 > li::marker { content: ""counter(section_1-6-3-1-1,lower-alpha)")"; }
+#section_1-6-3-1-1 > li { counter-increment: section_1-6-3-1-1; }
+#section_1-6-4-1-1 { counter-set: section_1-6-4-1-1 0; }
+#section_1-6-4-1-1 > li::marker { content: ""counter(section_1-6-4-1-1,lower-alpha)")"; }
+#section_1-6-4-1-1 > li { counter-increment: section_1-6-4-1-1; }
+#section_1-7-3-1-1 { counter-set: section_1-7-3-1-1 0; }
+#section_1-7-3-1-1 > li::marker { content: ""counter(section_1-7-3-1-1,lower-alpha)")"; }
+#section_1-7-3-1-1 > li { counter-increment: section_1-7-3-1-1; }
+#section_1-7-4-1-1 { counter-set: section_1-7-4-1-1 0; }
+#section_1-7-4-1-1 > li::marker { content: ""counter(section_1-7-4-1-1,lower-alpha)")"; }
+#section_1-7-4-1-1 > li { counter-increment: section_1-7-4-1-1; }
+#section_1-7-5-1-1 { counter-set: section_1-7-5-1-1 0; }
+#section_1-7-5-1-1 > li::marker { content: ""counter(section_1-7-5-1-1,lower-alpha)")"; }
+#section_1-7-5-1-1 > li { counter-increment: section_1-7-5-1-1; }
+#section_1-8-3-1-1 { counter-set: section_1-8-3-1-1 0; }
+#section_1-8-3-1-1 > li::marker { content: ""counter(section_1-8-3-1-1,lower-alpha)")"; }
+#section_1-8-3-1-1 > li { counter-increment: section_1-8-3-1-1; }
+#section_1-8-4-1-1 { counter-set: section_1-8-4-1-1 0; }
+#section_1-8-4-1-1 > li::marker { content: ""counter(section_1-8-4-1-1,lower-alpha)")"; }
+#section_1-8-4-1-1 > li { counter-increment: section_1-8-4-1-1; }
+#section_1-9-3-1-1 { counter-set: section_1-9-3-1-1 0; }
+#section_1-9-3-1-1 > li::marker { content: ""counter(section_1-9-3-1-1,lower-alpha)")"; }
+#section_1-9-3-1-1 > li { counter-increment: section_1-9-3-1-1; }
+#section_2-1-3-1-1 { counter-set: section_2-1-3-1-1 0; }
+#section_2-1-3-1-1 > li::marker { content: ""counter(section_2-1-3-1-1,lower-alpha)")"; }
+#section_2-1-3-1-1 > li { counter-increment: section_2-1-3-1-1; }
+#section_2-1-4-1-1 { counter-set: section_2-1-4-1-1 0; }
+#section_2-1-4-1-1 > li::marker { content: ""counter(section_2-1-4-1-1,lower-alpha)")"; }
+#section_2-1-4-1-1 > li { counter-increment: section_2-1-4-1-1; }
+#section_2-1-5-1-1 { counter-set: section_2-1-5-1-1 0; }
+#section_2-1-5-1-1 > li::marker { content: ""counter(section_2-1-5-1-1,lower-alpha)")"; }
+#section_2-1-5-1-1 > li { counter-increment: section_2-1-5-1-1; }
+#section_2-2-3-1-1 { counter-set: section_2-2-3-1-1 0; }
+#section_2-2-3-1-1 > li::marker { content: ""counter(section_2-2-3-1-1,lower-alpha)")"; }
+#section_2-2-3-1-1 > li { counter-increment: section_2-2-3-1-1; }
+#section_2-2-4-1-1 { counter-set: section_2-2-4-1-1 0; }
+#section_2-2-4-1-1 > li::marker { content: ""counter(section_2-2-4-1-1,lower-alpha)")"; }
+#section_2-2-4-1-1 > li { counter-increment: section_2-2-4-1-1; }
+#section_2-2-5-1-1 { counter-set: section_2-2-5-1-1 0; }
+#section_2-2-5-1-1 > li::marker { content: ""counter(section_2-2-5-1-1,lower-alpha)")"; }
+#section_2-2-5-1-1 > li { counter-increment: section_2-2-5-1-1; }
+#section_2-3-3-1-1 { counter-set: section_2-3-3-1-1 0; }
+#section_2-3-3-1-1 > li::marker { content: ""counter(section_2-3-3-1-1,lower-alpha)")"; }
+#section_2-3-3-1-1 > li { counter-increment: section_2-3-3-1-1; }
+#section_2-3-4-1-1 { counter-set: section_2-3-4-1-1 0; }
+#section_2-3-4-1-1 > li::marker { content: ""counter(section_2-3-4-1-1,lower-alpha)")"; }
+#section_2-3-4-1-1 > li { counter-increment: section_2-3-4-1-1; }
+#section_2-4-3-1-1 { counter-set: section_2-4-3-1-1 0; }
+#section_2-4-3-1-1 > li::marker { content: ""counter(section_2-4-3-1-1,lower-alpha)")"; }
+#section_2-4-3-1-1 > li { counter-increment: section_2-4-3-1-1; }
+#section_2-4-4-1-1 { counter-set: section_2-4-4-1-1 0; }
+#section_2-4-4-1-1 > li::marker { content: ""counter(section_2-4-4-1-1,lower-alpha)")"; }
+#section_2-4-4-1-1 > li { counter-increment: section_2-4-4-1-1; }
+#section_2-4-5-1-1 { counter-set: section_2-4-5-1-1 0; }
+#section_2-4-5-1-1 > li::marker { content: ""counter(section_2-4-5-1-1,lower-alpha)")"; }
+#section_2-4-5-1-1 > li { counter-increment: section_2-4-5-1-1; }
+#section_2-5-3-1-1 { counter-set: section_2-5-3-1-1 0; }
+#section_2-5-3-1-1 > li::marker { content: ""counter(section_2-5-3-1-1,lower-alpha)")"; }
+#section_2-5-3-1-1 > li { counter-increment: section_2-5-3-1-1; }
+#section_2-5-4-1-1 { counter-set: section_2-5-4-1-1 0; }
+#section_2-5-4-1-1 > li::marker { content: ""counter(section_2-5-4-1-1,lower-alpha)")"; }
+#section_2-5-4-1-1 > li { counter-increment: section_2-5-4-1-1; }
+#section_2-6-3-1-1 { counter-set: section_2-6-3-1-1 0; }
+#section_2-6-3-1-1 > li::marker { content: ""counter(section_2-6-3-1-1,lower-alpha)")"; }
+#section_2-6-3-1-1 > li { counter-increment: section_2-6-3-1-1; }
+#section_2-6-4-1-1 { counter-set: section_2-6-4-1-1 0; }
+#section_2-6-4-1-1 > li::marker { content: ""counter(section_2-6-4-1-1,lower-alpha)")"; }
+#section_2-6-4-1-1 > li { counter-increment: section_2-6-4-1-1; }
+#section_2-7-3-1-1 { counter-set: section_2-7-3-1-1 0; }
+#section_2-7-3-1-1 > li::marker { content: ""counter(section_2-7-3-1-1,lower-alpha)")"; }
+#section_2-7-3-1-1 > li { counter-increment: section_2-7-3-1-1; }
+#section_2-8-3-1-3 { counter-set: section_2-8-3-1-3 0; }
+#section_2-8-3-1-3 > li::marker { content: ""counter(section_2-8-3-1-3,lower-alpha)")"; }
+#section_2-8-3-1-3 > li { counter-increment: section_2-8-3-1-3; }
+#section_2-8-4-1-1 { counter-set: section_2-8-4-1-1 0; }
+#section_2-8-4-1-1 > li::marker { content: ""counter(section_2-8-4-1-1,lower-alpha)")"; }
+#section_2-8-4-1-1 > li { counter-increment: section_2-8-4-1-1; }
+#section_2-8-5-1-1 { counter-set: section_2-8-5-1-1 0; }
+#section_2-8-5-1-1 > li::marker { content: ""counter(section_2-8-5-1-1,lower-alpha)")"; }
+#section_2-8-5-1-1 > li { counter-increment: section_2-8-5-1-1; }
+#section_2-8-6-1-1 { counter-set: section_2-8-6-1-1 0; }
+#section_2-8-6-1-1 > li::marker { content: ""counter(section_2-8-6-1-1,lower-alpha)")"; }
+#section_2-8-6-1-1 > li { counter-increment: section_2-8-6-1-1; }
+#section_3-1-3-1-1 { counter-set: section_3-1-3-1-1 0; }
+#section_3-1-3-1-1 > li::marker { content: ""counter(section_3-1-3-1-1,lower-alpha)")"; }
+#section_3-1-3-1-1 > li { counter-increment: section_3-1-3-1-1; }
+#section_3-1-4-1-1 { counter-set: section_3-1-4-1-1 0; }
+#section_3-1-4-1-1 > li::marker { content: ""counter(section_3-1-4-1-1,lower-alpha)")"; }
+#section_3-1-4-1-1 > li { counter-increment: section_3-1-4-1-1; }
+#section_3-1-5-1-1 { counter-set: section_3-1-5-1-1 0; }
+#section_3-1-5-1-1 > li::marker { content: ""counter(section_3-1-5-1-1,lower-alpha)")"; }
+#section_3-1-5-1-1 > li { counter-increment: section_3-1-5-1-1; }
+#section_3-1-6-1-1 { counter-set: section_3-1-6-1-1 0; }
+#section_3-1-6-1-1 > li::marker { content: ""counter(section_3-1-6-1-1,lower-alpha)")"; }
+#section_3-1-6-1-1 > li { counter-increment: section_3-1-6-1-1; }
+#section_3-2-3-1-1 { counter-set: section_3-2-3-1-1 0; }
+#section_3-2-3-1-1 > li::marker { content: ""counter(section_3-2-3-1-1,lower-alpha)")"; }
+#section_3-2-3-1-1 > li { counter-increment: section_3-2-3-1-1; }
+#section_3-2-4-1-1 { counter-set: section_3-2-4-1-1 0; }
+#section_3-2-4-1-1 > li::marker { content: ""counter(section_3-2-4-1-1,lower-alpha)")"; }
+#section_3-2-4-1-1 > li { counter-increment: section_3-2-4-1-1; }
+#section_3-2-5-1-1 { counter-set: section_3-2-5-1-1 0; }
+#section_3-2-5-1-1 > li::marker { content: ""counter(section_3-2-5-1-1,lower-alpha)")"; }
+#section_3-2-5-1-1 > li { counter-increment: section_3-2-5-1-1; }
+#section_3-2-6-1-1 { counter-set: section_3-2-6-1-1 0; }
+#section_3-2-6-1-1 > li::marker { content: ""counter(section_3-2-6-1-1,lower-alpha)")"; }
+#section_3-2-6-1-1 > li { counter-increment: section_3-2-6-1-1; }
+#section_3-2-7-1-1 { counter-set: section_3-2-7-1-1 0; }
+#section_3-2-7-1-1 > li::marker { content: ""counter(section_3-2-7-1-1,lower-alpha)")"; }
+#section_3-2-7-1-1 > li { counter-increment: section_3-2-7-1-1; }
+#section_3-3-3-1-1 { counter-set: section_3-3-3-1-1 0; }
+#section_3-3-3-1-1 > li::marker { content: ""counter(section_3-3-3-1-1,lower-alpha)")"; }
+#section_3-3-3-1-1 > li { counter-increment: section_3-3-3-1-1; }
+#section_3-3-4-1-1 { counter-set: section_3-3-4-1-1 0; }
+#section_3-3-4-1-1 > li::marker { content: ""counter(section_3-3-4-1-1,lower-alpha)")"; }
+#section_3-3-4-1-1 > li { counter-increment: section_3-3-4-1-1; }
+#section_3-3-5-1-1 { counter-set: section_3-3-5-1-1 0; }
+#section_3-3-5-1-1 > li::marker { content: ""counter(section_3-3-5-1-1,lower-alpha)")"; }
+#section_3-3-5-1-1 > li { counter-increment: section_3-3-5-1-1; }
+#section_3-3-6-1-1 { counter-set: section_3-3-6-1-1 0; }
+#section_3-3-6-1-1 > li::marker { content: ""counter(section_3-3-6-1-1,lower-alpha)")"; }
+#section_3-3-6-1-1 > li { counter-increment: section_3-3-6-1-1; }
+#section_3-3-7-1-1 { counter-set: section_3-3-7-1-1 0; }
+#section_3-3-7-1-1 > li::marker { content: ""counter(section_3-3-7-1-1,lower-alpha)")"; }
+#section_3-3-7-1-1 > li { counter-increment: section_3-3-7-1-1; }
+#section_3-4-3-1-1 { counter-set: section_3-4-3-1-1 0; }
+#section_3-4-3-1-1 > li::marker { content: ""counter(section_3-4-3-1-1,lower-alpha)")"; }
+#section_3-4-3-1-1 > li { counter-increment: section_3-4-3-1-1; }
+#section_3-4-4-1-1 { counter-set: section_3-4-4-1-1 0; }
+#section_3-4-4-1-1 > li::marker { content: ""counter(section_3-4-4-1-1,lower-alpha)")"; }
+#section_3-4-4-1-1 > li { counter-increment: section_3-4-4-1-1; }
+#section_3-4-5-1-1 { counter-set: section_3-4-5-1-1 0; }
+#section_3-4-5-1-1 > li::marker { content: ""counter(section_3-4-5-1-1,lower-alpha)")"; }
+#section_3-4-5-1-1 > li { counter-increment: section_3-4-5-1-1; }
+#section_3-4-6-1-1 { counter-set: section_3-4-6-1-1 0; }
+#section_3-4-6-1-1 > li::marker { content: ""counter(section_3-4-6-1-1,lower-alpha)")"; }
+#section_3-4-6-1-1 > li { counter-increment: section_3-4-6-1-1; }
+#section_3-4-7-1-1 { counter-set: section_3-4-7-1-1 0; }
+#section_3-4-7-1-1 > li::marker { content: ""counter(section_3-4-7-1-1,lower-alpha)")"; }
+#section_3-4-7-1-1 > li { counter-increment: section_3-4-7-1-1; }
+#section_3-5-3-1-1 { counter-set: section_3-5-3-1-1 0; }
+#section_3-5-3-1-1 > li::marker { content: ""counter(section_3-5-3-1-1,lower-alpha)")"; }
+#section_3-5-3-1-1 > li { counter-increment: section_3-5-3-1-1; }
+#section_5-1-3-1-1 { counter-set: section_5-1-3-1-1 0; }
+#section_5-1-3-1-1 > li::marker { content: ""counter(section_5-1-3-1-1,lower-alpha)")"; }
+#section_5-1-3-1-1 > li { counter-increment: section_5-1-3-1-1; }
+#section_5-1-4-1-1 { counter-set: section_5-1-4-1-1 0; }
+#section_5-1-4-1-1 > li::marker { content: ""counter(section_5-1-4-1-1,lower-alpha)")"; }
+#section_5-1-4-1-1 > li { counter-increment: section_5-1-4-1-1; }
+#section_5-1-5-1-1 { counter-set: section_5-1-5-1-1 0; }
+#section_5-1-5-1-1 > li::marker { content: ""counter(section_5-1-5-1-1,lower-alpha)")"; }
+#section_5-1-5-1-1 > li { counter-increment: section_5-1-5-1-1; }
+#section_5-1-6-1-1 { counter-set: section_5-1-6-1-1 0; }
+#section_5-1-6-1-1 > li::marker { content: ""counter(section_5-1-6-1-1,lower-alpha)")"; }
+#section_5-1-6-1-1 > li { counter-increment: section_5-1-6-1-1; }
+#section_5-1-7-1-1 { counter-set: section_5-1-7-1-1 0; }
+#section_5-1-7-1-1 > li::marker { content: ""counter(section_5-1-7-1-1,lower-alpha)")"; }
+#section_5-1-7-1-1 > li { counter-increment: section_5-1-7-1-1; }
+#section_5-2-3-1-1 { counter-set: section_5-2-3-1-1 0; }
+#section_5-2-3-1-1 > li::marker { content: ""counter(section_5-2-3-1-1,lower-alpha)")"; }
+#section_5-2-3-1-1 > li { counter-increment: section_5-2-3-1-1; }
+#section_5-3-3-1-1 { counter-set: section_5-3-3-1-1 0; }
+#section_5-3-3-1-1 > li::marker { content: ""counter(section_5-3-3-1-1,lower-alpha)")"; }
+#section_5-3-3-1-1 > li { counter-increment: section_5-3-3-1-1; }
+#section_5-3-4-1-1 { counter-set: section_5-3-4-1-1 0; }
+#section_5-3-4-1-1 > li::marker { content: ""counter(section_5-3-4-1-1,lower-alpha)")"; }
+#section_5-3-4-1-1 > li { counter-increment: section_5-3-4-1-1; }
+#section_5-3-5-1-1 { counter-set: section_5-3-5-1-1 0; }
+#section_5-3-5-1-1 > li::marker { content: ""counter(section_5-3-5-1-1,lower-alpha)")"; }
+#section_5-3-5-1-1 > li { counter-increment: section_5-3-5-1-1; }
+#section_5-4-3-1-1 { counter-set: section_5-4-3-1-1 0; }
+#section_5-4-3-1-1 > li::marker { content: ""counter(section_5-4-3-1-1,lower-alpha)")"; }
+#section_5-4-3-1-1 > li { counter-increment: section_5-4-3-1-1; }
+#section_5-5-3-1-1 { counter-set: section_5-5-3-1-1 0; }
+#section_5-5-3-1-1 > li::marker { content: ""counter(section_5-5-3-1-1,lower-alpha)")"; }
+#section_5-5-3-1-1 > li { counter-increment: section_5-5-3-1-1; }
+#section_T-5-3-1-1 { counter-set: section_T-5-3-1-1 0; }
+#section_T-5-3-1-1 > li::marker { content: ""counter(section_T-5-3-1-1,lower-alpha)")"; }
+#section_T-5-3-1-1 > li { counter-increment: section_T-5-3-1-1; }
+#section_T-5-4-1-1 { counter-set: section_T-5-4-1-1 0; }
+#section_T-5-4-1-1 > li::marker { content: ""counter(section_T-5-4-1-1,lower-alpha)")"; }
+#section_T-5-4-1-1 > li { counter-increment: section_T-5-4-1-1; }
+#section_T-5-5-1-1 { counter-set: section_T-5-5-1-1 0; }
+#section_T-5-5-1-1 > li::marker { content: ""counter(section_T-5-5-1-1,lower-alpha)")"; }
+#section_T-5-5-1-1 > li { counter-increment: section_T-5-5-1-1; }
+#section_T-5-6-1-1 { counter-set: section_T-5-6-1-1 0; }
+#section_T-5-6-1-1 > li::marker { content: ""counter(section_T-5-6-1-1,lower-alpha)")"; }
+#section_T-5-6-1-1 > li { counter-increment: section_T-5-6-1-1; }
+#section_4-1-3-1-1 { counter-set: section_4-1-3-1-1 0; }
+#section_4-1-3-1-1 > li::marker { content: ""counter(section_4-1-3-1-1,lower-alpha)")"; }
+#section_4-1-3-1-1 > li { counter-increment: section_4-1-3-1-1; }
+#section_4-1-4-1-1 { counter-set: section_4-1-4-1-1 0; }
+#section_4-1-4-1-1 > li::marker { content: ""counter(section_4-1-4-1-1,lower-alpha)")"; }
+#section_4-1-4-1-1 > li { counter-increment: section_4-1-4-1-1; }
+#section_4-1-5-1-1 { counter-set: section_4-1-5-1-1 0; }
+#section_4-1-5-1-1 > li::marker { content: ""counter(section_4-1-5-1-1,lower-alpha)")"; }
+#section_4-1-5-1-1 > li { counter-increment: section_4-1-5-1-1; }
+#section_4-1-6-1-1 { counter-set: section_4-1-6-1-1 0; }
+#section_4-1-6-1-1 > li::marker { content: ""counter(section_4-1-6-1-1,lower-alpha)")"; }
+#section_4-1-6-1-1 > li { counter-increment: section_4-1-6-1-1; }
+#section_4-1-7-1-1 { counter-set: section_4-1-7-1-1 0; }
+#section_4-1-7-1-1 > li::marker { content: ""counter(section_4-1-7-1-1,lower-alpha)")"; }
+#section_4-1-7-1-1 > li { counter-increment: section_4-1-7-1-1; }
+#section_4-1-8-1-1 { counter-set: section_4-1-8-1-1 0; }
+#section_4-1-8-1-1 > li::marker { content: ""counter(section_4-1-8-1-1,lower-alpha)")"; }
+#section_4-1-8-1-1 > li { counter-increment: section_4-1-8-1-1; }
+#section_4-3-3-1-1 { counter-set: section_4-3-3-1-1 0; }
+#section_4-3-3-1-1 > li::marker { content: ""counter(section_4-3-3-1-1,lower-alpha)")"; }
+#section_4-3-3-1-1 > li { counter-increment: section_4-3-3-1-1; }
+#section_T-2-3-1-1 { counter-set: section_T-2-3-1-1 0; }
+#section_T-2-3-1-1 > li::marker { content: ""counter(section_T-2-3-1-1,lower-alpha)")"; }
+#section_T-2-3-1-1 > li { counter-increment: section_T-2-3-1-1; }
+#section_T-2-4-1-1 { counter-set: section_T-2-4-1-1 0; }
+#section_T-2-4-1-1 > li::marker { content: ""counter(section_T-2-4-1-1,lower-alpha)")"; }
+#section_T-2-4-1-1 > li { counter-increment: section_T-2-4-1-1; }
+#section_T-2-5-1-1 { counter-set: section_T-2-5-1-1 0; }
+#section_T-2-5-1-1 > li::marker { content: ""counter(section_T-2-5-1-1,lower-alpha)")"; }
+#section_T-2-5-1-1 > li { counter-increment: section_T-2-5-1-1; }
+#section_T-2-6-1-1 { counter-set: section_T-2-6-1-1 0; }
+#section_T-2-6-1-1 > li::marker { content: ""counter(section_T-2-6-1-1,lower-alpha)")"; }
+#section_T-2-6-1-1 > li { counter-increment: section_T-2-6-1-1; }
+#section_6-1-3-1-1 { counter-set: section_6-1-3-1-1 0; }
+#section_6-1-3-1-1 > li::marker { content: ""counter(section_6-1-3-1-1,lower-alpha)")"; }
+#section_6-1-3-1-1 > li { counter-increment: section_6-1-3-1-1; }
+#section_6-2-3-1-1 { counter-set: section_6-2-3-1-1 0; }
+#section_6-2-3-1-1 > li::marker { content: ""counter(section_6-2-3-1-1,lower-alpha)")"; }
+#section_6-2-3-1-1 > li { counter-increment: section_6-2-3-1-1; }
+#section_6-3-3-1-1 { counter-set: section_6-3-3-1-1 0; }
+#section_6-3-3-1-1 > li::marker { content: ""counter(section_6-3-3-1-1,lower-alpha)")"; }
+#section_6-3-3-1-1 > li { counter-increment: section_6-3-3-1-1; }
+#section_6-4-3-1-1 { counter-set: section_6-4-3-1-1 0; }
+#section_6-4-3-1-1 > li::marker { content: ""counter(section_6-4-3-1-1,lower-alpha)")"; }
+#section_6-4-3-1-1 > li { counter-increment: section_6-4-3-1-1; }
+#section_6-4-4-1-1 { counter-set: section_6-4-4-1-1 0; }
+#section_6-4-4-1-1 > li::marker { content: ""counter(section_6-4-4-1-1,lower-alpha)")"; }
+#section_6-4-4-1-1 > li { counter-increment: section_6-4-4-1-1; }
+#section_6-5-3-1-1 { counter-set: section_6-5-3-1-1 0; }
+#section_6-5-3-1-1 > li::marker { content: ""counter(section_6-5-3-1-1,lower-alpha)")"; }
+#section_6-5-3-1-1 > li { counter-increment: section_6-5-3-1-1; }
+#section_6-5-4-1-1 { counter-set: section_6-5-4-1-1 0; }
+#section_6-5-4-1-1 > li::marker { content: ""counter(section_6-5-4-1-1,lower-alpha)")"; }
+#section_6-5-4-1-1 > li { counter-increment: section_6-5-4-1-1; }
+#section_6-6-3-1-1 { counter-set: section_6-6-3-1-1 0; }
+#section_6-6-3-1-1 > li::marker { content: ""counter(section_6-6-3-1-1,lower-alpha)")"; }
+#section_6-6-3-1-1 > li { counter-increment: section_6-6-3-1-1; }
+#section_6-7-3-1-1 { counter-set: section_6-7-3-1-1 0; }
+#section_6-7-3-1-1 > li::marker { content: ""counter(section_6-7-3-1-1,lower-alpha)")"; }
+#section_6-7-3-1-1 > li { counter-increment: section_6-7-3-1-1; }
+#section_6-7-4-1-1 { counter-set: section_6-7-4-1-1 0; }
+#section_6-7-4-1-1 > li::marker { content: ""counter(section_6-7-4-1-1,lower-alpha)")"; }
+#section_6-7-4-1-1 > li { counter-increment: section_6-7-4-1-1; }
+#section_7-1-3-1-1 { counter-set: section_7-1-3-1-1 0; }
+#section_7-1-3-1-1 > li::marker { content: ""counter(section_7-1-3-1-1,lower-alpha)")"; }
+#section_7-1-3-1-1 > li { counter-increment: section_7-1-3-1-1; }
+#section_7-2-3-1-1 { counter-set: section_7-2-3-1-1 0; }
+#section_7-2-3-1-1 > li::marker { content: ""counter(section_7-2-3-1-1,lower-alpha)")"; }
+#section_7-2-3-1-1 > li { counter-increment: section_7-2-3-1-1; }
+#section_7-3-3-1-1 { counter-set: section_7-3-3-1-1 0; }
+#section_7-3-3-1-1 > li::marker { content: ""counter(section_7-3-3-1-1,lower-alpha)")"; }
+#section_7-3-3-1-1 > li { counter-increment: section_7-3-3-1-1; }
+#section_7-3-4-1-1 { counter-set: section_7-3-4-1-1 0; }
+#section_7-3-4-1-1 > li::marker { content: ""counter(section_7-3-4-1-1,lower-alpha)")"; }
+#section_7-3-4-1-1 > li { counter-increment: section_7-3-4-1-1; }
+#section_7-3-5-1-1 { counter-set: section_7-3-5-1-1 0; }
+#section_7-3-5-1-1 > li::marker { content: ""counter(section_7-3-5-1-1,lower-alpha)")"; }
+#section_7-3-5-1-1 > li { counter-increment: section_7-3-5-1-1; }
+#section_7-5-3-1-1 { counter-set: section_7-5-3-1-1 0; }
+#section_7-5-3-1-1 > li::marker { content: ""counter(section_7-5-3-1-1,lower-alpha)")"; }
+#section_7-5-3-1-1 > li { counter-increment: section_7-5-3-1-1; }
+#section_7-5-4-1-1 { counter-set: section_7-5-4-1-1 0; }
+#section_7-5-4-1-1 > li::marker { content: ""counter(section_7-5-4-1-1,lower-alpha)")"; }
+#section_7-5-4-1-1 > li { counter-increment: section_7-5-4-1-1; }
+#section_7-6-3-1-1 { counter-set: section_7-6-3-1-1 0; }
+#section_7-6-3-1-1 > li::marker { content: ""counter(section_7-6-3-1-1,lower-alpha)")"; }
+#section_7-6-3-1-1 > li { counter-increment: section_7-6-3-1-1; }
+#section_7-6-4-1-1 { counter-set: section_7-6-4-1-1 0; }
+#section_7-6-4-1-1 > li::marker { content: ""counter(section_7-6-4-1-1,lower-alpha)")"; }
+#section_7-6-4-1-1 > li { counter-increment: section_7-6-4-1-1; }
+#section_7-6-5-1-1 { counter-set: section_7-6-5-1-1 0; }
+#section_7-6-5-1-1 > li::marker { content: ""counter(section_7-6-5-1-1,lower-alpha)")"; }
+#section_7-6-5-1-1 > li { counter-increment: section_7-6-5-1-1; }
+#section_T-1-3-1-1 { counter-set: section_T-1-3-1-1 0; }
+#section_T-1-3-1-1 > li::marker { content: ""counter(section_T-1-3-1-1,lower-alpha)")"; }
+#section_T-1-3-1-1 > li { counter-increment: section_T-1-3-1-1; }
+#section_T-1-4-1-1 { counter-set: section_T-1-4-1-1 0; }
+#section_T-1-4-1-1 > li::marker { content: ""counter(section_T-1-4-1-1,lower-alpha)")"; }
+#section_T-1-4-1-1 > li { counter-increment: section_T-1-4-1-1; }
+#section_T-1-5-1-1 { counter-set: section_T-1-5-1-1 0; }
+#section_T-1-5-1-1 > li::marker { content: ""counter(section_T-1-5-1-1,lower-alpha)")"; }
+#section_T-1-5-1-1 > li { counter-increment: section_T-1-5-1-1; }
+#section_8-1-3-1-1 { counter-set: section_8-1-3-1-1 0; }
+#section_8-1-3-1-1 > li::marker { content: ""counter(section_8-1-3-1-1,lower-alpha)")"; }
+#section_8-1-3-1-1 > li { counter-increment: section_8-1-3-1-1; }
+#section_8-1-4-1-1 { counter-set: section_8-1-4-1-1 0; }
+#section_8-1-4-1-1 > li::marker { content: ""counter(section_8-1-4-1-1,lower-alpha)")"; }
+#section_8-1-4-1-1 > li { counter-increment: section_8-1-4-1-1; }
+#section_8-1-5-1-1 { counter-set: section_8-1-5-1-1 0; }
+#section_8-1-5-1-1 > li::marker { content: ""counter(section_8-1-5-1-1,lower-alpha)")"; }
+#section_8-1-5-1-1 > li { counter-increment: section_8-1-5-1-1; }
+#section_8-1-6-1-1 { counter-set: section_8-1-6-1-1 0; }
+#section_8-1-6-1-1 > li::marker { content: ""counter(section_8-1-6-1-1,lower-alpha)")"; }
+#section_8-1-6-1-1 > li { counter-increment: section_8-1-6-1-1; }
+#section_8-1-7-1-1 { counter-set: section_8-1-7-1-1 0; }
+#section_8-1-7-1-1 > li::marker { content: ""counter(section_8-1-7-1-1,lower-alpha)")"; }
+#section_8-1-7-1-1 > li { counter-increment: section_8-1-7-1-1; }
+#section_8-1-8-1-1 { counter-set: section_8-1-8-1-1 0; }
+#section_8-1-8-1-1 > li::marker { content: ""counter(section_8-1-8-1-1,lower-alpha)")"; }
+#section_8-1-8-1-1 > li { counter-increment: section_8-1-8-1-1; }
+#section_8-2-3-1-1 { counter-set: section_8-2-3-1-1 0; }
+#section_8-2-3-1-1 > li::marker { content: ""counter(section_8-2-3-1-1,lower-alpha)")"; }
+#section_8-2-3-1-1 > li { counter-increment: section_8-2-3-1-1; }
+#section_8-2-4-1-1 { counter-set: section_8-2-4-1-1 0; }
+#section_8-2-4-1-1 > li::marker { content: ""counter(section_8-2-4-1-1,lower-alpha)")"; }
+#section_8-2-4-1-1 > li { counter-increment: section_8-2-4-1-1; }
+#section_8-2-5-1-1 { counter-set: section_8-2-5-1-1 0; }
+#section_8-2-5-1-1 > li::marker { content: ""counter(section_8-2-5-1-1,lower-alpha)")"; }
+#section_8-2-5-1-1 > li { counter-increment: section_8-2-5-1-1; }
+#section_8-2-6-1-1 { counter-set: section_8-2-6-1-1 0; }
+#section_8-2-6-1-1 > li::marker { content: ""counter(section_8-2-6-1-1,lower-alpha)")"; }
+#section_8-2-6-1-1 > li { counter-increment: section_8-2-6-1-1; }
+#section_8-2-7-1-1 { counter-set: section_8-2-7-1-1 0; }
+#section_8-2-7-1-1 > li::marker { content: ""counter(section_8-2-7-1-1,lower-alpha)")"; }
+#section_8-2-7-1-1 > li { counter-increment: section_8-2-7-1-1; }
+#section_8-2-8-1-1 { counter-set: section_8-2-8-1-1 0; }
+#section_8-2-8-1-1 > li::marker { content: ""counter(section_8-2-8-1-1,lower-alpha)")"; }
+#section_8-2-8-1-1 > li { counter-increment: section_8-2-8-1-1; }
+#section_8-2-9-1-1 { counter-set: section_8-2-9-1-1 0; }
+#section_8-2-9-1-1 > li::marker { content: ""counter(section_8-2-9-1-1,lower-alpha)")"; }
+#section_8-2-9-1-1 > li { counter-increment: section_8-2-9-1-1; }
+#section_8-3-3-1-1 { counter-set: section_8-3-3-1-1 0; }
+#section_8-3-3-1-1 > li::marker { content: ""counter(section_8-3-3-1-1,lower-alpha)")"; }
+#section_8-3-3-1-1 > li { counter-increment: section_8-3-3-1-1; }
+#section_8-3-4-1-1 { counter-set: section_8-3-4-1-1 0; }
+#section_8-3-4-1-1 > li::marker { content: ""counter(section_8-3-4-1-1,lower-alpha)")"; }
+#section_8-3-4-1-1 > li { counter-increment: section_8-3-4-1-1; }
+#section_8-3-5-1-1 { counter-set: section_8-3-5-1-1 0; }
+#section_8-3-5-1-1 > li::marker { content: ""counter(section_8-3-5-1-1,lower-alpha)")"; }
+#section_8-3-5-1-1 > li { counter-increment: section_8-3-5-1-1; }
+#section_8-4-3-1-1 { counter-set: section_8-4-3-1-1 0; }
+#section_8-4-3-1-1 > li::marker { content: ""counter(section_8-4-3-1-1,lower-alpha)")"; }
+#section_8-4-3-1-1 > li { counter-increment: section_8-4-3-1-1; }
+#section_8-4-4-1-1 { counter-set: section_8-4-4-1-1 0; }
+#section_8-4-4-1-1 > li::marker { content: ""counter(section_8-4-4-1-1,lower-alpha)")"; }
+#section_8-4-4-1-1 > li { counter-increment: section_8-4-4-1-1; }
+#section_8-4-5-1-1 { counter-set: section_8-4-5-1-1 0; }
+#section_8-4-5-1-1 > li::marker { content: ""counter(section_8-4-5-1-1,lower-alpha)")"; }
+#section_8-4-5-1-1 > li { counter-increment: section_8-4-5-1-1; }
+#section_8-4-6-1-1 { counter-set: section_8-4-6-1-1 0; }
+#section_8-4-6-1-1 > li::marker { content: ""counter(section_8-4-6-1-1,lower-alpha)")"; }
+#section_8-4-6-1-1 > li { counter-increment: section_8-4-6-1-1; }
+#section_8-4-7-1-1 { counter-set: section_8-4-7-1-1 0; }
+#section_8-4-7-1-1 > li::marker { content: ""counter(section_8-4-7-1-1,lower-alpha)")"; }
+#section_8-4-7-1-1 > li { counter-increment: section_8-4-7-1-1; }
+#section_8-5-3-1-1 { counter-set: section_8-5-3-1-1 0; }
+#section_8-5-3-1-1 > li::marker { content: ""counter(section_8-5-3-1-1,lower-alpha)")"; }
+#section_8-5-3-1-1 > li { counter-increment: section_8-5-3-1-1; }
+#section_8-5-4-1-1 { counter-set: section_8-5-4-1-1 0; }
+#section_8-5-4-1-1 > li::marker { content: ""counter(section_8-5-4-1-1,lower-alpha)")"; }
+#section_8-5-4-1-1 > li { counter-increment: section_8-5-4-1-1; }
+#section_8-5-5-1-1 { counter-set: section_8-5-5-1-1 0; }
+#section_8-5-5-1-1 > li::marker { content: ""counter(section_8-5-5-1-1,lower-alpha)")"; }
+#section_8-5-5-1-1 > li { counter-increment: section_8-5-5-1-1; }
+#section_3-6-3-1-1 { counter-set: section_3-6-3-1-1 0; }
+#section_3-6-3-1-1 > li::marker { content: ""counter(section_3-6-3-1-1,lower-alpha)")"; }
+#section_3-6-3-1-1 > li { counter-increment: section_3-6-3-1-1; }
+#section_3-6-4-1-1 { counter-set: section_3-6-4-1-1 0; }
+#section_3-6-4-1-1 > li::marker { content: ""counter(section_3-6-4-1-1,lower-alpha)")"; }
+#section_3-6-4-1-1 > li { counter-increment: section_3-6-4-1-1; }
+#section_3-6-5-1-1 { counter-set: section_3-6-5-1-1 0; }
+#section_3-6-5-1-1 > li::marker { content: ""counter(section_3-6-5-1-1,lower-alpha)")"; }
+#section_3-6-5-1-1 > li { counter-increment: section_3-6-5-1-1; }
+#section_11-1-3-1-1 { counter-set: section_11-1-3-1-1 0; }
+#section_11-1-3-1-1 > li::marker { content: ""counter(section_11-1-3-1-1,lower-alpha)")"; }
+#section_11-1-3-1-1 > li { counter-increment: section_11-1-3-1-1; }
+#section_11-1-4-1-2 { counter-set: section_11-1-4-1-2 0; }
+#section_11-1-4-1-2 > li::marker { content: ""counter(section_11-1-4-1-2,lower-alpha)")"; }
+#section_11-1-4-1-2 > li { counter-increment: section_11-1-4-1-2; }
+#section_11-1-5-1-1 { counter-set: section_11-1-5-1-1 0; }
+#section_11-1-5-1-1 > li::marker { content: ""counter(section_11-1-5-1-1,lower-alpha)")"; }
+#section_11-1-5-1-1 > li { counter-increment: section_11-1-5-1-1; }
+#section_11-3-3-1-1 { counter-set: section_11-3-3-1-1 0; }
+#section_11-3-3-1-1 > li::marker { content: ""counter(section_11-3-3-1-1,lower-alpha)")"; }
+#section_11-3-3-1-1 > li { counter-increment: section_11-3-3-1-1; }
+#section_11-3-4-1-1 { counter-set: section_11-3-4-1-1 0; }
+#section_11-3-4-1-1 > li::marker { content: ""counter(section_11-3-4-1-1,lower-alpha)")"; }
+#section_11-3-4-1-1 > li { counter-increment: section_11-3-4-1-1; }
+#section_11-3-5-1-1 { counter-set: section_11-3-5-1-1 0; }
+#section_11-3-5-1-1 > li::marker { content: ""counter(section_11-3-5-1-1,lower-alpha)")"; }
+#section_11-3-5-1-1 > li { counter-increment: section_11-3-5-1-1; }
 </style>
 </head>
 <body id="changeme" class="pretext book ignore-math">
 <a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
 <a id="logo-link" class="logo-link" target="_blank" href=""></a><div class="title-container">
 <h1 class="heading"><a href="DMAT-InstrGuide.html"><span class="title">DMAT Instructor Information</span></a></h1>
-<p class="byline">Candace Andrews</p>
+<p class="byline"></p>
 </div>
 </div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
 <div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
@@ -156,7 +620,6 @@ window.MathJax = {
 \)</span></div>
 <div class="ptx-page">
 <div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2"><ul class="structural contains-active toc-item-list">
-<li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-0.html" class="internal"><span class="title">0: Pre-Algebra Review</span></a></div>
 <ul class="structural toc-item-list">
@@ -164,19 +627,7 @@ window.MathJax = {
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="section_0-2.html" class="internal"><span class="title">0.2: Adding and Subtracting Fractions</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="section_0-3.html" class="internal"><span class="title">0.3: Multiplying and Dividing Fractions</span></a></div></li>
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="section_0-4.html" class="internal"><span class="title">0.4: Using Decimals</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_0-5.html" class="internal"><span class="title"></span></a></div></li>
-<li class="toc-item toc-section">
-<div class="toc-title-box"><a href="section-26.html" class="internal"><span class="title">Implicit Differentiation</span></a></div>
-<ul class="structural toc-item-list">
-<li class="toc-item toc-subsection">
-<div class="toc-title-box"><a href="section-26.html#section-26-beforeclass" class="internal"><span class="title">Before Class</span></a></div>
-<ul class="structural toc-item-list"><li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="section-26.html#section-26-idea" class="internal"><span class="title">The Idea</span></a></div></li></ul>
-</li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-26.html#section-26-preclass" class="internal"><span class="title">Pre-Class Activities</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-26.html#section-26-inclass" class="internal"><span class="title">In Class</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="section-26.html#section-26-afterclass" class="internal"><span class="title">After Class Activities</span></a></div></li>
-</ul>
-</li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_0-5.html" class="internal"><span class="title">0.5: Percents, Rounding, and Estimating</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
@@ -196,92 +647,117 @@ window.MathJax = {
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-2.html" class="internal"><span class="title">2: Equations, Inequalities, and Applications</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-6.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-7.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-8.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-1.html" class="internal"><span class="title">2.1: The Addition Principle of Equality</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-2.html" class="internal"><span class="title">2.2: The Multiplication Principle of Equality</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-3.html" class="internal"><span class="title">2.3: Using the Addition and Multiplication Principles Together</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-4.html" class="internal"><span class="title">2.4: Solving Equations with Fractions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-5.html" class="internal"><span class="title">2.5: Translating English Phrases into Algebraic Expressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-6.html" class="internal"><span class="title">2.6: Using Equations to Solve Word Problems</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-7.html" class="internal"><span class="title">2.7: Solving Word Problems: The Value of Money and Percents</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_2-8.html" class="internal"><span class="title">2.8: Solving Inequalities in One Variable</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-3.html" class="internal"><span class="title">3: Graphing</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-1.html" class="internal"><span class="title">3.1: The Rectangular Coordinate System</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-2.html" class="internal"><span class="title">3.2: Graphing Linear Equations</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-3.html" class="internal"><span class="title">3.3: The Slope of a Line</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-4.html" class="internal"><span class="title">3.4: Writing the Equation of a Line</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-5.html" class="internal"><span class="title">3.5: Graphing Linear Inequalities</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter contains-active">
 <div class="toc-title-box"><a href="Chapter-5.html" class="internal"><span class="title">5: Exponents and Polynomials</span></a></div>
 <ul class="structural toc-item-list contains-active">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section active"><div class="toc-title-box"><a href="section_5-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-1.html" class="internal"><span class="title">5.1: The Rules of Exponents</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-2.html" class="internal"><span class="title">5.2: Negative Exponents</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-3.html" class="internal"><span class="title">5.3: Fundamental Polynomial Operations</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_5-4.html" class="internal"><span class="title">5.4: Multiplying Polynomials</span></a></div></li>
+<li class="toc-item toc-section active"><div class="toc-title-box"><a href="section_5-5.html" class="internal"><span class="title">5.5: Multiplication: Special Cases</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-4.html" class="internal"><span class="title">4: Systems of Linear Equations</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_4-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_4-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_T-5.html" class="internal"><span class="title">Section T.5+: Recalling Linear Equations</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_4-1.html" class="internal"><span class="title">Section 4.1: Systems of Linear Equations in Two Variables</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_4-3.html" class="internal"><span class="title">Section 4.3: Applications of Systems of Linear Equations</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-6.html" class="internal"><span class="title">6: Factoring</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-6.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-7.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_T-2.html" class="internal"><span class="title">Section T.2: Polynomial Operations</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-1.html" class="internal"><span class="title">Section 6.1: Removing a Common Factor</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-2.html" class="internal"><span class="title">Section 6.2: Factoring by Grouping</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-3.html" class="internal"><span class="title">Section 6.3: Factoring Trinomials of the Form x^2+bx+c.</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-4.html" class="internal"><span class="title">Section 6.4: Factoring Trinomials of the Form ax^2+bx+c.</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-5.html" class="internal"><span class="title">Section 6.5: Special Cases of Factoring</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-6.html" class="internal"><span class="title">Section 6.6: A Brief Review of Factoring</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_6-7.html" class="internal"><span class="title">Section 6.7: Solving Quadratic Equations by Factoring</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-7.html" class="internal"><span class="title">7: Rational Expressions and Equations</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-6.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-1.html" class="internal"><span class="title">Section 7.1: Simplifying Rational Expressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-2.html" class="internal"><span class="title">Section 7.2: Multiplying and Dividing Rational Expressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-3.html" class="internal"><span class="title">Section 7.3: Adding and Subtracting Rational Expressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-5.html" class="internal"><span class="title">Section 7.5: Solving Equations Involving Rational Expressions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_7-6.html" class="internal"><span class="title">Section 7.6: Ratio, Proportion, and Other Applied Problems</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-8.html" class="internal"><span class="title">8: Rational Exponents and Radicals</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-4.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-5.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-7.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_T-1.html" class="internal"><span class="title">Section T.1: Integer Exponents, Square Roots, Order of Operations</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-1.html" class="internal"><span class="title">Section 8.1: Rational Exponents</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-2.html" class="internal"><span class="title">Section 8.2: Radical Expressions.</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-3.html" class="internal"><span class="title">Section 8.3: Simplifying, Adding, and Subtracting Radicals</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-4.html" class="internal"><span class="title">Section 8.4: Multiplying and Dividing Radicals</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_8-5.html" class="internal"><span class="title">Section 8.5: Radical Equations</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="Chapter-11.html" class="internal"><span class="title">11: Properties of Functions</span></a></div>
 <ul class="structural toc-item-list">
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-6.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_11-1.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_11-2.html" class="internal"><span class="title">Section Title</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_11-3.html" class="internal"><span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_3-6.html" class="internal"><span class="title">Section 3.6: Functions</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_11-1.html" class="internal"><span class="title">Section 11.1: Function Notation</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="section_11-3.html" class="internal"><span class="title">Section 11.3: Algebraic Operations on Functions</span></a></div></li>
 </ul>
 </li>
-<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
 </ul></nav></div>
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="section_5-5"><h2 class="heading hide-type">
-<span class="type">Section</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Section Title</span>
+<span class="type">Section</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">5.5: Multiplication: Special Cases</span>
 </h2>
-<div class="para" id="section_5-5-2">Text of section.</div></section></div>
+<article class="objectives goal-like" id="section_5-5-2"><h3 class="heading"><span class="type">Objectives</span></h3>
+<ul class="disc" id="section_5-5-2-1">
+<li id="section_5-5-2-1-1"><div class="para" id="p-derived-section_5-5-2-1-1">Multiply binomials of the type (a+b)^2 and (a-b)^2.</div></li>
+<li id="section_5-5-2-1-2"><div class="para" id="p-derived-section_5-5-2-1-2">Multiply binomials of the type (a+b)(a-b).</div></li>
+<li id="section_5-5-2-1-3"><div class="para" id="p-derived-section_5-5-2-1-3">Multiply polynomials using the distributive property.</div></li>
+</ul></article><article class="example example-like" id="section_5-5-3"><h3 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">97</span><span class="period">.</span>
+</h3>Multiply. <ol class="lower-alpha" id="section_5-5-3-1-1">
+<li id="section_5-5-3-1-1-1"><div class="para" id="p-derived-section_5-5-3-1-1-1"><span class="process-math">\(\displaystyle (x + 1)(x - 1)\)</span></div></li>
+<li id="section_5-5-3-1-1-2"><div class="para" id="p-derived-section_5-5-3-1-1-2"><span class="process-math">\(\displaystyle (7 + x)(7 - x)\)</span></div></li>
+<li id="section_5-5-3-1-1-3"><div class="para" id="p-derived-section_5-5-3-1-1-3"><span class="process-math">\(\displaystyle (5x + 4)(5x - 4)\)</span></div></li>
+<li id="section_5-5-3-1-1-4"><div class="para" id="p-derived-section_5-5-3-1-1-4"><span class="process-math">\(\displaystyle (a + 5b)(a - 5b)\)</span></div></li>
+<li id="section_5-5-3-1-1-5"><div class="para" id="p-derived-section_5-5-3-1-1-5"><span class="process-math">\(\displaystyle (2x + 7y)(2x - 7y)\)</span></div></li>
+<li id="section_5-5-3-1-1-6"><div class="para" id="p-derived-section_5-5-3-1-1-6"><span class="process-math">\(\displaystyle \left(x + \dfrac{1}{4}\right)\left(x - \dfrac{1}{4}\right)\)</span></div></li>
+<li id="section_5-5-3-1-1-7"><div class="para" id="p-derived-section_5-5-3-1-1-7"><span class="process-math">\(\displaystyle (x+12)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-8"><div class="para" id="p-derived-section_5-5-3-1-1-8"><span class="process-math">\(\displaystyle (x-5)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-9"><div class="para" id="p-derived-section_5-5-3-1-1-9"><span class="process-math">\(\displaystyle (10x+3)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-10"><div class="para" id="p-derived-section_5-5-3-1-1-10"><span class="process-math">\(\displaystyle (8x+7y)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-11"><div class="para" id="p-derived-section_5-5-3-1-1-11"><span class="process-math">\(\displaystyle (3x-4y)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-12"><div class="para" id="p-derived-section_5-5-3-1-1-12"><span class="process-math">\(\displaystyle \left(x+\dfrac{9}{10}\right)^2\)</span></div></li>
+<li id="section_5-5-3-1-1-13"><div class="para" id="p-derived-section_5-5-3-1-1-13"><span class="process-math">\(\displaystyle (x-11)(x^2+7x-4)\)</span></div></li>
+<li id="section_5-5-3-1-1-14"><div class="para" id="p-derived-section_5-5-3-1-1-14"><span class="process-math">\(\displaystyle (6y+11)(7y^2-2y-9)\)</span></div></li>
+<li id="section_5-5-3-1-1-15"><div class="para" id="p-derived-section_5-5-3-1-1-15"><span class="process-math">\(\displaystyle (x^2+x-6)(x^2+x-8)\)</span></div></li>
+<li id="section_5-5-3-1-1-16"><div class="para" id="p-derived-section_5-5-3-1-1-16"><span class="process-math">\(\displaystyle (x-5)(x-5)(x-5)\)</span></div></li>
+</ol></article><article class="example example-like" id="section_5-5-4"><h3 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">98</span><span class="period">.</span>
+</h3>Find the volume of this object. <div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/latex-image/section_5-5-4-1-1.svg" role="img" class="contained"></div></article></section></div>
 <div class="ptx-content-footer">
 <a class="previous-button button" href="section_5-4.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="Chapter-4.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
