@@ -2194,7 +2194,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Section 8.2: Radical Expressions.",
-  "body": " Section 8.2: Radical Expressions.    Evaluate radical expressions.  Change radical expressions to expressions with rational exponents.  Simplify radical expressions.  Change expressions with rational exponents to radical expressions.  Simplify expressions with rational exponents.  Simplify higher-order radicals containing variable radicands that represent any real number.    Evaluate if possible.        Find the output value for the given expression. Round the answer to the nearest tenth when necessary.  If , find the value of y when x=7.  If , find the value of y when x=17.  If , find the value of y when x=14.    Assume that variables represent positive real numbers. Replace the radical with rational exponents.        Simplify. Assume that variables represent positive real numbers.       Evaluate.            Evaluate if possible.      Simplify. Assume that all variables represent any real number.        "
+  "body": " Section 8.2: Radical Expressions.    Evaluate radical expressions.  Change radical expressions to expressions with rational exponents.  Simplify radical expressions.  Change expressions with rational exponents to radical expressions.  Simplify expressions with rational exponents.  Simplify higher-order radicals containing variable radicands that represent any real number.    Evaluate if possible.        Find the output value for the given expression. Round the answer to the nearest tenth when necessary.  If , find the value of y when x=7.  If , find the value of y when x=17.  If , find the value of y when x=14.    Assume that variables represent positive real numbers. Replace the radical with rational exponents.        Simplify. Assume that variables represent positive real numbers.       Rewrite the expression in radical form. Simplify if possible.       Evaluate.         Evaluate if possible.      Simplify. Assume that all variables represent any real number.        "
 },
 {
   "id": "section_8-2-2",
@@ -2248,7 +2248,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "148",
   "title": "",
-  "body": "Evaluate.           "
+  "body": "Rewrite the expression in radical form. Simplify if possible.      "
 },
 {
   "id": "section_8-2-8",
@@ -2257,7 +2257,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "149",
   "title": "",
-  "body": "Evaluate if possible.     "
+  "body": "Evaluate.        "
 },
 {
   "id": "section_8-2-9",
@@ -2265,6 +2265,15 @@ var ptx_lunr_docs = [
   "url": "section_8-2.html#section_8-2-9",
   "type": "Example",
   "number": "150",
+  "title": "",
+  "body": "Evaluate if possible.     "
+},
+{
+  "id": "section_8-2-10",
+  "level": "2",
+  "url": "section_8-2.html#section_8-2-10",
+  "type": "Example",
+  "number": "151",
   "title": "",
   "body": "Simplify. Assume that all variables represent any real number.       "
 },
@@ -2291,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-3.html#section_8-3-3",
   "type": "Example",
-  "number": "151",
+  "number": "152",
   "title": "",
   "body": "Simplify. Assume all variables are non-negative real numbers.        "
 },
@@ -2300,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-3.html#section_8-3-4",
   "type": "Example",
-  "number": "152",
+  "number": "153",
   "title": "",
   "body": "Combine. Assume that all variables represent non-negative real numbers.         "
 },
@@ -2309,7 +2318,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-3.html#section_8-3-5",
   "type": "Example",
-  "number": "153",
+  "number": "154",
   "title": "",
   "body": "Solve.  When an object is dropped to the ground from a height of h meters, the time it takes for the object to reach the ground is given by the equation , where t is measured in seconds. If an object falls 78.4 meters before it hits the ground, find the time it took for the object to fall.  The maximum number of volts, E, that can be placed across a resistor is given by the formula , where P is the number of watts of power that the resistor can absorb and R is the resistance of the resistor in ohms. Find E if watts and R = 72 ohms.  The current in amps I drawn by an appliance in the home can be approximated using the formula , where P is the power measured in watts and R is the resistance measured in ohms. What is the current I if P = 900 watts and R = 12 ohms? (Round to three decimal places, if necessary.)   "
 },
@@ -2336,7 +2345,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-4.html#section_8-4-3",
   "type": "Example",
-  "number": "154",
+  "number": "155",
   "title": "",
   "body": "Multiply and simplify. Assume that all variables represent non-negative numbers.        "
 },
@@ -2345,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-4.html#section_8-4-4",
   "type": "Example",
-  "number": "155",
+  "number": "156",
   "title": "",
   "body": "Divide and simplify. Assume that all variables represent positive numbers.       "
 },
@@ -2354,7 +2363,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-4.html#section_8-4-5",
   "type": "Example",
-  "number": "156",
+  "number": "157",
   "title": "",
   "body": "Rationalize the denominator. Assume all variables represent positive real numbers.            "
 },
@@ -2363,7 +2372,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-4.html#section_8-4-6",
   "type": "Example",
-  "number": "157",
+  "number": "158",
   "title": "",
   "body": "Simplify.    "
 },
@@ -2372,7 +2381,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-4.html#section_8-4-7",
   "type": "Example",
-  "number": "158",
+  "number": "159",
   "title": "",
   "body": "Solve.  The cost to sod a lawn is $0.25 per square foot. Find the cost to sod a triangular shaped lawn if the triangular region has a base of feet and an altitude of feet. Round the answer to the nearest cent.  An engineer is constructing a rectangular solar-energy panel for a satellite. The panel has a width of and a length of . Find the area of the panel in square inches.   "
 },
@@ -2399,7 +2408,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-5.html#section_8-5-3",
   "type": "Example",
-  "number": "159",
+  "number": "160",
   "title": "",
   "body": "Find the restricted of the given radical expression.     "
 },
@@ -2408,7 +2417,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-5.html#section_8-5-4",
   "type": "Example",
-  "number": "160",
+  "number": "161",
   "title": "",
   "body": "Solve the radical equation. Check all proposed solutions.         "
 },
@@ -2417,7 +2426,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_8-5.html#section_8-5-5",
   "type": "Example",
-  "number": "161",
+  "number": "162",
   "title": "",
   "body": "Solve.  When an object is dropped to the ground from a height of h meters, the time it takes for the object to reach the ground is given by the equation , where t is measured in seconds. Solve the equation for h. Use the result to determine the height from which an object was dropped if it hits the ground after falling for 2 seconds.  The maximum number of volts, E, that can be placed across a resistor is given by the formula , where P is the number of watts of power that the resistor can absorb and R is the resistance of the resistor in ohms. Solve this equation for R. Use the result to determine the resistance of a resistor if P is 2 watts and E is 40 volts.  The number of centimeters, d, that a spring is compressed from its natural, uncompressed position is given by the formula , where W is the number of joules of work done to move the spring and k is the spring constant. Solve this equation for W. Use the result to determine the work needed to move a spring 6 centimeters if it has a spring constant of 0.2.   "
 },
@@ -2444,7 +2453,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_3-6.html#section_3-6-3",
   "type": "Example",
-  "number": "162",
+  "number": "163",
   "title": "",
   "body": "Find the domain and range of the relation.       "
 },
@@ -2453,7 +2462,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_3-6.html#section_3-6-4",
   "type": "Example",
-  "number": "163",
+  "number": "164",
   "title": "",
   "body": "Determine whether the relation is a function.                                      "
 },
@@ -2462,7 +2471,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_3-6.html#section_3-6-5",
   "type": "Example",
-  "number": "164",
+  "number": "165",
   "title": "",
   "body": "Given the function, find the indicated value.      "
 },
@@ -2489,7 +2498,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-1.html#section_11-1-3",
   "type": "Example",
-  "number": "165",
+  "number": "166",
   "title": "",
   "body": "Evaluate the function.  If , find .  If , find .  If , find .  If , find .  If , find .  If , find  If , find .   "
 },
@@ -2498,7 +2507,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-1.html#section_11-1-4",
   "type": "Example",
-  "number": "166",
+  "number": "167",
   "title": "",
   "body": "Find for the given function.     "
 },
@@ -2507,7 +2516,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-1.html#section_11-1-5",
   "type": "Example",
-  "number": "167",
+  "number": "168",
   "title": "",
   "body": "Solve.  A wind turbine generator produces P kilowatts of power for wind speed w (measured in miles per hour) according to the equation . Thus, the number of kilowatt hours P as a function of w is . At a particular time the wind speed is measured to be 25 miles per hour. However, the measuring device is known to have an inherent error of measure, e. Find an expression for the actual amount of energy produced by finding .   "
 },
@@ -2534,7 +2543,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-3.html#section_11-3-3",
   "type": "Example",
-  "number": "168",
+  "number": "169",
   "title": "",
   "body": "Perform the requested operation on the given functions.  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .  . Find .   "
 },
@@ -2543,7 +2552,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-3.html#section_11-3-4",
   "type": "Example",
-  "number": "169",
+  "number": "170",
   "title": "",
   "body": "Find the composition.  If and , find .  If and , find .  If and , find .  If and , find .  If and , find  If and , find .   "
 },
@@ -2552,7 +2561,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "section_11-3.html#section_11-3-5",
   "type": "Example",
-  "number": "170",
+  "number": "171",
   "title": "",
   "body": "Solve.  The population P of a predator mammal depends upon the number x of a smaller animal that is its primary food source. The population s of the smaller animal depends upon the amount a of a certain plant that is its primary food source. If and , what is the relationship between the predator mammal and the plant food source?  Suppose the dollar cost to produce n items in a factory is . Furthermore, the number of items n produced in x hours is . Find , which is the composite function that defines the dollar cost in terms of the number of hours of production x.   "
 }
